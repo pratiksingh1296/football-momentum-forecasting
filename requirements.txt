@@ -1,6 +1,7 @@
 streamlit==1.60.0
 pandas==3.0.3
 torch==2.12.1
+torchvision==0.27.1
 transformers==5.12.1
 huggingface_hub==1.21.0
 plotly==6.9.0
