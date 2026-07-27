@@ -2,7 +2,7 @@
 
 A DistilBERT based NLP system that classifies football match momentum from live commentary text, achieving 91% macro F1 (up from a 72% baseline) through systematic, hypothesis driven experimentation.
 
-**Live demo:** [Streamlit app link here]
+**Live demo:** [https://football-momentum-forecasting.streamlit.app/]
 **Model checkpoint:** [huggingface.co/leoken/football-momentum-distilbert](https://huggingface.co/leoken/football-momentum-distilbert)
 
 ---
