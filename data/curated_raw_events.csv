@@ -1,0 +1,665 @@
+id_odsp,id_event,sort_order,time,text,event_type,event_type2,side,event_team,opponent,player,player2,player_in,player_out,shot_place,shot_outcome,is_goal,location,bodypart,assist_method,situation,fast_break
+GOCHkuO4/,GOCHkuO41,1,2,Attempt missed. Gotoku Sakai (Stuttgart) right footed shot from the centre of the box is too high. Assisted by Vedad Ibisevic.,1,12.0,1,VfB Stuttgart,Werder Bremen,gotoku sakai,vedad ibisevic,,,10.0,2.0,0,3.0,1.0,1,1.0,0
+GOCHkuO4/,GOCHkuO42,2,3,Foul by Tunay Torun (Stuttgart).,3,,1,VfB Stuttgart,Werder Bremen,tunay torun,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO43,3,3,Aaron Hunt (SV Werder Bremen) wins a free kick in the defensive half.,8,,2,Werder Bremen,VfB Stuttgart,aaron hunt,,,,,,0,2.0,,0,,0
+GOCHkuO4/,GOCHkuO44,4,4,Attempt saved. Ibrahima Traore (Stuttgart) right footed shot from outside the box is saved in the centre of the goal. Assisted by Christian Gentner.,1,12.0,1,VfB Stuttgart,Werder Bremen,ibrahima traore,christian gentner,,,5.0,1.0,0,15.0,1.0,1,1.0,0
+GOCHkuO4/,GOCHkuO45,5,7,"Offside, SV Werder Bremen. Kevin De Bruyne tries a through ball, but Aaron Hunt is caught offside.",9,13.0,2,Werder Bremen,VfB Stuttgart,aaron hunt,kevin de bruyne,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO46,6,8,"Corner,  Stuttgart. Conceded by Zlatko Junuzovic.",2,,1,VfB Stuttgart,Werder Bremen,zlatko junuzovic,zlatko junuzovic,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO47,7,9,"Corner,  Stuttgart. Conceded by Aleksandar Ignjovski.",2,,1,VfB Stuttgart,Werder Bremen,aleksandar ignjovski,aleksandar ignjovski,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO48,8,9,Foul by Vedad Ibisevic (Stuttgart).,3,,1,VfB Stuttgart,Werder Bremen,vedad ibisevic,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO49,9,9,Lukas Schmitz (SV Werder Bremen) wins a free kick in the defensive half.,8,,2,Werder Bremen,VfB Stuttgart,lukas schmitz,,,,,,0,2.0,,0,,0
+GOCHkuO4/,GOCHkuO410,10,10,"Offside, Stuttgart. Georg Niedermeier tries a through ball, but Vedad Ibisevic is caught offside.",9,13.0,1,VfB Stuttgart,Werder Bremen,vedad ibisevic,georg niedermeier,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO411,11,11,Foul by Arthur Boka (Stuttgart).,3,,1,VfB Stuttgart,Werder Bremen,arthur boka,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO412,12,11,Eljero Elia (SV Werder Bremen) wins a free kick in the defensive half.,8,,2,Werder Bremen,VfB Stuttgart,eljero elia,,,,,,0,2.0,,0,,0
+GOCHkuO4/,GOCHkuO413,13,12,Tunay Torun (Stuttgart) wins a free kick in the attacking half.,8,,1,VfB Stuttgart,Werder Bremen,tunay torun,,,,,,0,1.0,,0,,0
+GOCHkuO4/,GOCHkuO414,14,12,Foul by Sokratis (SV Werder Bremen).,3,,2,Werder Bremen,VfB Stuttgart,sokratis,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO415,15,14,Foul by Vedad Ibisevic (Stuttgart).,3,,1,VfB Stuttgart,Werder Bremen,vedad ibisevic,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO416,16,14,Sokratis (SV Werder Bremen) wins a free kick in the defensive half.,8,,2,Werder Bremen,VfB Stuttgart,sokratis,,,,,,0,2.0,,0,,0
+GOCHkuO4/,GOCHkuO417,17,15,Attempt missed. Mehmet Ekici (SV Werder Bremen) right footed shot from outside the box misses to the right. Assisted by Nils Petersen.,1,12.0,2,Werder Bremen,VfB Stuttgart,mehmet ekici,nils petersen,,,9.0,2.0,0,15.0,1.0,1,1.0,0
+GOCHkuO4/,GOCHkuO418,18,16,"Offside, Stuttgart. Tunay Torun tries a through ball, but Ibrahima Traore is caught offside.",9,13.0,1,VfB Stuttgart,Werder Bremen,ibrahima traore,tunay torun,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO419,19,19,Foul by Vedad Ibisevic (Stuttgart).,3,,1,VfB Stuttgart,Werder Bremen,vedad ibisevic,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO420,20,19,Aleksandar Ignjovski (SV Werder Bremen) wins a free kick in the defensive half.,8,,2,Werder Bremen,VfB Stuttgart,aleksandar ignjovski,,,,,,0,2.0,,0,,0
+GOCHkuO4/,GOCHkuO421,21,21,Attempt blocked. Nils Petersen (SV Werder Bremen) left footed shot from outside the box is blocked. Assisted by Kevin De Bruyne.,1,12.0,2,Werder Bremen,VfB Stuttgart,nils petersen,kevin de bruyne,,,2.0,3.0,0,15.0,2.0,1,1.0,0
+GOCHkuO4/,GOCHkuO422,22,21,Attempt blocked. Aaron Hunt (SV Werder Bremen) left footed shot from outside the box is blocked.,1,,2,Werder Bremen,VfB Stuttgart,aaron hunt,,,,2.0,3.0,0,15.0,2.0,0,1.0,0
+GOCHkuO4/,GOCHkuO423,23,21,Attempt blocked. Eljero Elia (SV Werder Bremen) left footed shot from the right side of the box is blocked. Assisted by Aaron Hunt with a headed pass.,1,12.0,2,Werder Bremen,VfB Stuttgart,eljero elia,aaron hunt,,,2.0,3.0,0,11.0,2.0,3,1.0,0
+GOCHkuO4/,GOCHkuO424,24,21,"Corner,  SV Werder Bremen. Conceded by William Kvist.",2,,2,Werder Bremen,VfB Stuttgart,william kvist,william kvist,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO425,25,24,Kevin De Bruyne (SV Werder Bremen) hits the left post with a right footed shot from the centre of the box. Assisted by Eljero Elia with a cross.,1,12.0,2,Werder Bremen,VfB Stuttgart,kevin de bruyne,eljero elia,,,7.0,4.0,0,3.0,1.0,2,1.0,0
+GOCHkuO4/,GOCHkuO426,26,24,Attempt saved. Kevin De Bruyne (SV Werder Bremen) left footed shot from the centre of the box is saved in the bottom left corner.,1,,2,Werder Bremen,VfB Stuttgart,kevin de bruyne,,,,3.0,1.0,0,3.0,2.0,0,1.0,0
+GOCHkuO4/,GOCHkuO427,27,24,"Corner,  SV Werder Bremen. Conceded by Gotoku Sakai.",2,,2,Werder Bremen,VfB Stuttgart,gotoku sakai,gotoku sakai,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO428,28,24,Attempt blocked. Aaron Hunt (SV Werder Bremen) left footed shot from the centre of the box is blocked.,1,,2,Werder Bremen,VfB Stuttgart,aaron hunt,,,,2.0,3.0,0,3.0,2.0,0,1.0,0
+GOCHkuO4/,GOCHkuO429,29,24,Attempt blocked. Lukas Schmitz (SV Werder Bremen) left footed shot from the right side of the box is blocked.,1,,2,Werder Bremen,VfB Stuttgart,lukas schmitz,,,,2.0,3.0,0,11.0,2.0,0,1.0,0
+GOCHkuO4/,GOCHkuO430,30,24,"Corner,  SV Werder Bremen. Conceded by Arthur Boka.",2,,2,Werder Bremen,VfB Stuttgart,arthur boka,arthur boka,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO431,31,25,Foul by Vedad Ibisevic (Stuttgart).,3,,1,VfB Stuttgart,Werder Bremen,vedad ibisevic,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO432,32,25,Zlatko Junuzovic (SV Werder Bremen) wins a free kick in the defensive half.,8,,2,Werder Bremen,VfB Stuttgart,zlatko junuzovic,,,,,,0,2.0,,0,,0
+GOCHkuO4/,GOCHkuO433,33,26,Foul by Ibrahima Traore (Stuttgart).,3,,1,VfB Stuttgart,Werder Bremen,ibrahima traore,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO434,34,26,Ibrahima Traore (Stuttgart) is shown the yellow card for a bad foul.,4,,1,VfB Stuttgart,Werder Bremen,ibrahima traore,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO435,35,26,Aleksandar Ignjovski (SV Werder Bremen) wins a free kick in the defensive half.,8,,2,Werder Bremen,VfB Stuttgart,aleksandar ignjovski,,,,,,0,2.0,,0,,0
+GOCHkuO4/,GOCHkuO436,36,27,Tunay Torun (Stuttgart) wins a free kick on the left wing.,8,,1,VfB Stuttgart,Werder Bremen,tunay torun,,,,,,0,4.0,,0,,0
+GOCHkuO4/,GOCHkuO437,37,27,Foul by Eljero Elia (SV Werder Bremen).,3,,2,Werder Bremen,VfB Stuttgart,eljero elia,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO438,38,28,Foul by Arthur Boka (Stuttgart).,3,,1,VfB Stuttgart,Werder Bremen,arthur boka,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO439,39,28,Zlatko Junuzovic (SV Werder Bremen) wins a free kick in the defensive half.,8,,2,Werder Bremen,VfB Stuttgart,zlatko junuzovic,,,,,,0,2.0,,0,,0
+GOCHkuO4/,GOCHkuO440,40,29,Foul by Martin Harnik (Stuttgart).,3,,1,VfB Stuttgart,Werder Bremen,martin harnik,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO441,41,29,Attempt blocked. Assani Lukimya (SV Werder Bremen) right footed shot from the centre of the box is blocked.,1,,2,Werder Bremen,VfB Stuttgart,assani lukimya,,,,2.0,3.0,0,3.0,1.0,0,1.0,0
+GOCHkuO4/,GOCHkuO442,42,30,Martin Harnik (Stuttgart) wins a free kick on the right wing.,8,,1,VfB Stuttgart,Werder Bremen,martin harnik,,,,,,0,5.0,,0,,0
+GOCHkuO4/,GOCHkuO443,43,30,Foul by Zlatko Junuzovic (SV Werder Bremen).,3,,2,Werder Bremen,VfB Stuttgart,zlatko junuzovic,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO444,44,30,"Attempt missed. Eljero Elia (SV Werder Bremen) left footed shot from the centre of the box is close, but misses to the left. Assisted by Mehmet Ekici with a cross following a fast break.",1,12.0,2,Werder Bremen,VfB Stuttgart,eljero elia,mehmet ekici,,,8.0,2.0,0,3.0,2.0,2,1.0,1
+GOCHkuO4/,GOCHkuO445,45,31,Foul by Vedad Ibisevic (Stuttgart).,3,,1,VfB Stuttgart,Werder Bremen,vedad ibisevic,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO446,46,31,Assani Lukimya (SV Werder Bremen) wins a free kick in the defensive half.,8,,2,Werder Bremen,VfB Stuttgart,assani lukimya,,,,,,0,2.0,,0,,0
+GOCHkuO4/,GOCHkuO447,47,32,"Offside, Stuttgart. Christian Gentner tries a through ball, but Ibrahima Traore is caught offside.",9,13.0,1,VfB Stuttgart,Werder Bremen,ibrahima traore,christian gentner,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO448,48,32,Attempt saved. Mehmet Ekici (SV Werder Bremen) right footed shot from the centre of the box is saved in the bottom right corner.,1,,2,Werder Bremen,VfB Stuttgart,mehmet ekici,,,,4.0,1.0,0,3.0,1.0,0,1.0,0
+GOCHkuO4/,GOCHkuO449,49,32,"Corner,  SV Werder Bremen. Conceded by Serdar Tasci.",2,,2,Werder Bremen,VfB Stuttgart,serdar tasci,serdar tasci,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO450,50,34,"Offside, Stuttgart. Gotoku Sakai tries a through ball, but Vedad Ibisevic is caught offside.",9,13.0,1,VfB Stuttgart,Werder Bremen,vedad ibisevic,gotoku sakai,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO451,51,34,"Goal!  Stuttgart 0, SV Werder Bremen 1. Mehmet Ekici (SV Werder Bremen) right footed shot from the centre of the box to the top left corner. Assisted by Kevin De Bruyne with a cross.",1,12.0,2,Werder Bremen,VfB Stuttgart,mehmet ekici,kevin de bruyne,,,12.0,1.0,1,3.0,1.0,2,1.0,0
+GOCHkuO4/,GOCHkuO452,52,36,Georg Niedermeier (Stuttgart) wins a free kick in the defensive half.,8,,1,VfB Stuttgart,Werder Bremen,georg niedermeier,,,,,,0,2.0,,0,,0
+GOCHkuO4/,GOCHkuO453,53,36,Foul by Eljero Elia (SV Werder Bremen).,3,,2,Werder Bremen,VfB Stuttgart,eljero elia,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO454,54,38,Attempt saved. Nils Petersen (SV Werder Bremen) header from the centre of the box is saved in the top left corner. Assisted by Mehmet Ekici with a cross.,1,12.0,2,Werder Bremen,VfB Stuttgart,nils petersen,mehmet ekici,,,12.0,1.0,0,3.0,3.0,2,1.0,0
+GOCHkuO4/,GOCHkuO455,55,39,"Offside, Stuttgart. Vedad Ibisevic tries a through ball, but Tunay Torun is caught offside.",9,13.0,1,VfB Stuttgart,Werder Bremen,tunay torun,vedad ibisevic,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO456,56,41,Vedad Ibisevic (Stuttgart) wins a free kick on the right wing.,8,,1,VfB Stuttgart,Werder Bremen,vedad ibisevic,,,,,,0,5.0,,0,,0
+GOCHkuO4/,GOCHkuO457,57,41,Foul by Sokratis (SV Werder Bremen).,3,,2,Werder Bremen,VfB Stuttgart,sokratis,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO458,58,42,Attempt saved. Martin Harnik (Stuttgart) header from the centre of the box is saved in the top centre of the goal. Assisted by Arthur Boka with a cross.,1,12.0,1,VfB Stuttgart,Werder Bremen,martin harnik,arthur boka,,,11.0,1.0,0,3.0,3.0,2,1.0,0
+GOCHkuO4/,GOCHkuO459,59,44,Christian Gentner (Stuttgart) wins a free kick on the left wing.,8,,1,VfB Stuttgart,Werder Bremen,christian gentner,,,,,,0,4.0,,0,,0
+GOCHkuO4/,GOCHkuO460,60,44,Foul by Aleksandar Ignjovski (SV Werder Bremen).,3,,2,Werder Bremen,VfB Stuttgart,aleksandar ignjovski,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO461,61,45,Attempt missed. Martin Harnik (Stuttgart) header from very close range is too high. Assisted by Tunay Torun with a cross following a set piece situation.,1,12.0,1,VfB Stuttgart,Werder Bremen,martin harnik,tunay torun,,,10.0,2.0,0,13.0,3.0,2,2.0,0
+GOCHkuO4/,GOCHkuO462,62,45,Sven Ulreich (Stuttgart) wins a free kick in the defensive half.,8,,1,VfB Stuttgart,Werder Bremen,sven ulreich,,,,,,0,2.0,,0,,0
+GOCHkuO4/,GOCHkuO463,63,45,Foul by Nils Petersen (SV Werder Bremen).,3,,2,Werder Bremen,VfB Stuttgart,nils petersen,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO464,64,45,Nils Petersen (SV Werder Bremen) is shown the yellow card for a bad foul.,4,,2,Werder Bremen,VfB Stuttgart,nils petersen,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO465,65,47,Attempt blocked. Eljero Elia (SV Werder Bremen) right footed shot from outside the box is blocked. Assisted by Mehmet Ekici.,1,12.0,2,Werder Bremen,VfB Stuttgart,eljero elia,mehmet ekici,,,2.0,3.0,0,15.0,1.0,1,1.0,0
+GOCHkuO4/,GOCHkuO466,66,48,Georg Niedermeier (Stuttgart) wins a free kick in the defensive half.,8,,1,VfB Stuttgart,Werder Bremen,georg niedermeier,,,,,,0,2.0,,0,,0
+GOCHkuO4/,GOCHkuO467,67,48,Foul by Nils Petersen (SV Werder Bremen).,3,,2,Werder Bremen,VfB Stuttgart,nils petersen,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO468,68,49,Foul by Arthur Boka (Stuttgart).,3,,1,VfB Stuttgart,Werder Bremen,arthur boka,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO469,69,49,Eljero Elia (SV Werder Bremen) wins a free kick in the attacking half.,8,,2,Werder Bremen,VfB Stuttgart,eljero elia,,,,,,0,1.0,,0,,0
+GOCHkuO4/,GOCHkuO470,70,50,"Goal!  Stuttgart 1, SV Werder Bremen 1. Ibrahima Traore (Stuttgart) left footed shot from the right side of the box to the bottom left corner.",1,,1,VfB Stuttgart,Werder Bremen,ibrahima traore,,,,3.0,1.0,1,11.0,2.0,0,1.0,0
+GOCHkuO4/,GOCHkuO471,71,50,Arthur Boka (Stuttgart) wins a free kick in the defensive half.,8,,1,VfB Stuttgart,Werder Bremen,arthur boka,,,,,,0,2.0,,0,,0
+GOCHkuO4/,GOCHkuO472,72,50,Foul by Eljero Elia (SV Werder Bremen).,3,,2,Werder Bremen,VfB Stuttgart,eljero elia,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO473,73,51,Vedad Ibisevic (Stuttgart) wins a free kick in the attacking half.,8,,1,VfB Stuttgart,Werder Bremen,vedad ibisevic,,,,,,0,1.0,,0,,0
+GOCHkuO4/,GOCHkuO474,74,51,Foul by Zlatko Junuzovic (SV Werder Bremen).,3,,2,Werder Bremen,VfB Stuttgart,zlatko junuzovic,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO475,75,52,Foul by Martin Harnik (Stuttgart).,3,,1,VfB Stuttgart,Werder Bremen,martin harnik,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO476,76,52,Kevin De Bruyne (SV Werder Bremen) wins a free kick in the defensive half.,8,,2,Werder Bremen,VfB Stuttgart,kevin de bruyne,,,,,,0,2.0,,0,,0
+GOCHkuO4/,GOCHkuO477,77,54,Gotoku Sakai (Stuttgart) wins a free kick in the defensive half.,8,,1,VfB Stuttgart,Werder Bremen,gotoku sakai,,,,,,0,2.0,,0,,0
+GOCHkuO4/,GOCHkuO478,78,54,Foul by Kevin De Bruyne (SV Werder Bremen).,3,,2,Werder Bremen,VfB Stuttgart,kevin de bruyne,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO479,79,59,Foul by Georg Niedermeier (Stuttgart).,3,,1,VfB Stuttgart,Werder Bremen,georg niedermeier,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO480,80,59,Kevin De Bruyne (SV Werder Bremen) wins a free kick in the attacking half.,8,,2,Werder Bremen,VfB Stuttgart,kevin de bruyne,,,,,,0,1.0,,0,,0
+GOCHkuO4/,GOCHkuO481,81,60,"Goal!  Stuttgart 1, SV Werder Bremen 2. Aaron Hunt (SV Werder Bremen) left footed shot from outside the box to the bottom left corner. Assisted by Nils Petersen with a through ball following a fast break.",1,12.0,2,Werder Bremen,VfB Stuttgart,aaron hunt,nils petersen,,,3.0,1.0,1,15.0,2.0,4,1.0,1
+GOCHkuO4/,GOCHkuO482,82,60,Attempt missed. Aaron Hunt (SV Werder Bremen) left footed shot from outside the box is just a bit too high from a direct free kick.,1,,2,Werder Bremen,VfB Stuttgart,aaron hunt,,,,1.0,2.0,0,15.0,2.0,0,4.0,0
+GOCHkuO4/,GOCHkuO483,83,62,Foul by Tunay Torun (Stuttgart).,3,,1,VfB Stuttgart,Werder Bremen,tunay torun,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO484,84,62,Foul by Georg Niedermeier (Stuttgart).,3,,1,VfB Stuttgart,Werder Bremen,georg niedermeier,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO485,85,62,Zlatko Junuzovic (SV Werder Bremen) wins a free kick in the defensive half.,8,,2,Werder Bremen,VfB Stuttgart,zlatko junuzovic,,,,,,0,2.0,,0,,0
+GOCHkuO4/,GOCHkuO486,86,62,Nils Petersen (SV Werder Bremen) wins a free kick on the right wing.,8,,2,Werder Bremen,VfB Stuttgart,nils petersen,,,,,,0,5.0,,0,,0
+GOCHkuO4/,GOCHkuO487,87,64,"Offside, Stuttgart. Ibrahima Traore tries a through ball, but Christian Gentner is caught offside.",9,13.0,1,VfB Stuttgart,Werder Bremen,christian gentner,ibrahima traore,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO488,88,64,"Offside, SV Werder Bremen. Assani Lukimya tries a through ball, but Aaron Hunt is caught offside.",9,13.0,2,Werder Bremen,VfB Stuttgart,aaron hunt,assani lukimya,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO489,89,66,Arthur Boka (Stuttgart) wins a free kick in the defensive half.,8,,1,VfB Stuttgart,Werder Bremen,arthur boka,,,,,,0,2.0,,0,,0
+GOCHkuO4/,GOCHkuO490,90,66,Foul by Eljero Elia (SV Werder Bremen).,3,,2,Werder Bremen,VfB Stuttgart,eljero elia,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO491,91,67,Vedad Ibisevic (Stuttgart) wins a free kick in the attacking half.,8,,1,VfB Stuttgart,Werder Bremen,vedad ibisevic,,,,,,0,1.0,,0,,0
+GOCHkuO4/,GOCHkuO492,92,67,Foul by Sokratis (SV Werder Bremen).,3,,2,Werder Bremen,VfB Stuttgart,sokratis,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO493,93,68,"Substitution, Stuttgart. Daniel Didavi replaces William Kvist.",7,,1,VfB Stuttgart,Werder Bremen,,,daniel didavi,william kvist,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO494,94,68,"Substitution, Stuttgart. Federico Macheda replaces Martin Harnik.",7,,1,VfB Stuttgart,Werder Bremen,,,federico macheda,martin harnik,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO495,95,68,Foul by Tunay Torun (Stuttgart).,3,,1,VfB Stuttgart,Werder Bremen,tunay torun,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO496,96,68,Aaron Hunt (SV Werder Bremen) wins a free kick in the defensive half.,8,,2,Werder Bremen,VfB Stuttgart,aaron hunt,,,,,,0,2.0,,0,,0
+GOCHkuO4/,GOCHkuO497,97,69,"Corner,  Stuttgart. Conceded by Assani Lukimya.",2,,1,VfB Stuttgart,Werder Bremen,assani lukimya,assani lukimya,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO498,98,69,Attempt missed. Vedad Ibisevic (Stuttgart) header from the left side of the six yard box misses to the left. Assisted by Tunay Torun with a cross following a corner.,1,12.0,1,VfB Stuttgart,Werder Bremen,vedad ibisevic,tunay torun,,,8.0,2.0,0,10.0,3.0,2,3.0,0
+GOCHkuO4/,GOCHkuO499,99,72,Christian Gentner (Stuttgart) wins a free kick in the defensive half.,8,,1,VfB Stuttgart,Werder Bremen,christian gentner,,,,,,0,2.0,,0,,0
+GOCHkuO4/,GOCHkuO4100,100,72,Foul by Zlatko Junuzovic (SV Werder Bremen).,3,,2,Werder Bremen,VfB Stuttgart,zlatko junuzovic,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO4101,101,73,Foul by Christian Gentner (Stuttgart).,3,,1,VfB Stuttgart,Werder Bremen,christian gentner,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO4102,102,73,Christian Gentner (Stuttgart) is shown the yellow card for a bad foul.,4,,1,VfB Stuttgart,Werder Bremen,christian gentner,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO4103,103,73,Aaron Hunt (SV Werder Bremen) wins a free kick in the attacking half.,8,,2,Werder Bremen,VfB Stuttgart,aaron hunt,,,,,,0,1.0,,0,,0
+GOCHkuO4/,GOCHkuO4104,104,74,"Goal!  Stuttgart 1, SV Werder Bremen 3. Mehmet Ekici (SV Werder Bremen) from a free kick with a right footed shot to the top right corner.",1,,2,Werder Bremen,VfB Stuttgart,mehmet ekici,,,,13.0,1.0,1,19.0,1.0,0,4.0,0
+GOCHkuO4/,GOCHkuO4105,105,75,"Corner,  Stuttgart. Conceded by Sokratis.",2,,1,VfB Stuttgart,Werder Bremen,sokratis,sokratis,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO4106,106,76,"Attempt missed. Daniel Didavi (Stuttgart) header from the centre of the box is close, but misses to the right. Assisted by Christian Gentner with a cross.",1,12.0,1,VfB Stuttgart,Werder Bremen,daniel didavi,christian gentner,,,9.0,2.0,0,3.0,3.0,2,1.0,0
+GOCHkuO4/,GOCHkuO4107,107,76,Arthur Boka (Stuttgart) wins a free kick in the defensive half.,8,,1,VfB Stuttgart,Werder Bremen,arthur boka,,,,,,0,2.0,,0,,0
+GOCHkuO4/,GOCHkuO4108,108,76,Foul by Eljero Elia (SV Werder Bremen).,3,,2,Werder Bremen,VfB Stuttgart,eljero elia,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO4109,109,77,"Substitution, Stuttgart. Shinji Okazaki replaces Tunay Torun.",7,,1,VfB Stuttgart,Werder Bremen,,,shinji okazaki,tunay torun,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO4110,110,78,Foul by Federico Macheda (Stuttgart).,3,,1,VfB Stuttgart,Werder Bremen,federico macheda,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO4111,111,78,Aaron Hunt (SV Werder Bremen) wins a free kick on the right wing.,8,,2,Werder Bremen,VfB Stuttgart,aaron hunt,,,,,,0,5.0,,0,,0
+GOCHkuO4/,GOCHkuO4112,112,79,Attempt missed. Vedad Ibisevic (Stuttgart) right footed shot from outside the box is high and wide to the right. Assisted by Christian Gentner.,1,12.0,1,VfB Stuttgart,Werder Bremen,vedad ibisevic,christian gentner,,,6.0,2.0,0,15.0,1.0,1,1.0,0
+GOCHkuO4/,GOCHkuO4113,113,80,Attempt missed. Vedad Ibisevic (Stuttgart) right footed shot from the centre of the box is too high. Assisted by Christian Gentner with a cross.,1,12.0,1,VfB Stuttgart,Werder Bremen,vedad ibisevic,christian gentner,,,10.0,2.0,0,3.0,1.0,2,1.0,0
+GOCHkuO4/,GOCHkuO4114,114,81,Foul by Georg Niedermeier (Stuttgart).,3,,1,VfB Stuttgart,Werder Bremen,georg niedermeier,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO4115,115,81,Nils Petersen (SV Werder Bremen) wins a free kick on the right wing.,8,,2,Werder Bremen,VfB Stuttgart,nils petersen,,,,,,0,5.0,,0,,0
+GOCHkuO4/,GOCHkuO4116,116,82,Vedad Ibisevic (Stuttgart) wins a free kick on the left wing.,8,,1,VfB Stuttgart,Werder Bremen,vedad ibisevic,,,,,,0,4.0,,0,,0
+GOCHkuO4/,GOCHkuO4117,117,82,Foul by Aleksandar Ignjovski (SV Werder Bremen).,3,,2,Werder Bremen,VfB Stuttgart,aleksandar ignjovski,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO4118,118,83,Foul by Vedad Ibisevic (Stuttgart).,3,,1,VfB Stuttgart,Werder Bremen,vedad ibisevic,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO4119,119,83,Vedad Ibisevic (Stuttgart) is shown the yellow card for a bad foul.,4,,1,VfB Stuttgart,Werder Bremen,vedad ibisevic,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO4120,120,83,Sokratis (SV Werder Bremen) wins a free kick in the defensive half.,8,,2,Werder Bremen,VfB Stuttgart,sokratis,,,,,,0,2.0,,0,,0
+GOCHkuO4/,GOCHkuO4121,121,85,"Substitution, SV Werder Bremen. Sebastian Prodl replaces Mehmet Ekici.",7,,2,Werder Bremen,VfB Stuttgart,,,sebastian prodl,mehmet ekici,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO4122,122,87,Christian Gentner (Stuttgart) wins a free kick in the defensive half.,8,,1,VfB Stuttgart,Werder Bremen,christian gentner,,,,,,0,2.0,,0,,0
+GOCHkuO4/,GOCHkuO4123,123,87,Foul by Zlatko Junuzovic (SV Werder Bremen).,3,,2,Werder Bremen,VfB Stuttgart,zlatko junuzovic,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO4124,124,89,"Substitution, SV Werder Bremen. Clemens Fritz replaces Zlatko Junuzovic.",7,,2,Werder Bremen,VfB Stuttgart,,,clemens fritz,zlatko junuzovic,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO4125,125,90,Vedad Ibisevic (Stuttgart) wins a free kick in the attacking half.,8,,1,VfB Stuttgart,Werder Bremen,vedad ibisevic,,,,,,0,1.0,,0,,0
+GOCHkuO4/,GOCHkuO4126,126,90,Attempt blocked. Daniel Didavi (Stuttgart) left footed shot from outside the box is blocked.,1,,1,VfB Stuttgart,Werder Bremen,daniel didavi,,,,2.0,3.0,0,15.0,2.0,0,1.0,0
+GOCHkuO4/,GOCHkuO4127,127,90,Hand ball by Daniel Didavi (Stuttgart).,10,,1,VfB Stuttgart,Werder Bremen,daniel didavi,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO4128,128,90,Shinji Okazaki (Stuttgart) wins a free kick in the attacking half.,8,,1,VfB Stuttgart,Werder Bremen,shinji okazaki,,,,,,0,1.0,,0,,0
+GOCHkuO4/,GOCHkuO4129,129,90,"Goal!  Stuttgart 1, SV Werder Bremen 4. Kevin De Bruyne (SV Werder Bremen) right footed shot from the right side of the box to the centre of the goal. Assisted by Theodor Gebre Selassie with a headed pass.",1,12.0,2,Werder Bremen,VfB Stuttgart,kevin de bruyne,theodor gebre selassie,,,5.0,1.0,1,11.0,1.0,3,1.0,0
+GOCHkuO4/,GOCHkuO4130,130,90,Foul by Sebastian Prodl (SV Werder Bremen).,3,,2,Werder Bremen,VfB Stuttgart,sebastian prodl,,,,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO4131,131,90,"Substitution, SV Werder Bremen. Theodor Gebre Selassie replaces Aaron Hunt.",7,,2,Werder Bremen,VfB Stuttgart,,,theodor gebre selassie,aaron hunt,,,0,,,0,,0
+GOCHkuO4/,GOCHkuO4132,132,90,Foul by Theodor Gebre Selassie (SV Werder Bremen).,3,,2,Werder Bremen,VfB Stuttgart,theodor gebre selassie,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam1,1,1,Corentin Jean (Troyes) wins a free kick in the attacking half.,8,,2,Troyes,Toulouse,corentin jean,,,,,,0,1.0,,0,,0
+GvLDJnam/,GvLDJnam2,2,1,Foul by Steeve Yago (Toulouse).,3,,1,Toulouse,Troyes,steeve yago,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam3,3,2,Foul by Corentin Jean (Troyes).,3,,2,Troyes,Toulouse,corentin jean,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam4,4,2,Steeve Yago (Toulouse) wins a free kick in the defensive half.,8,,1,Toulouse,Troyes,steeve yago,,,,,,0,2.0,,0,,0
+GvLDJnam/,GvLDJnam5,5,7,"Corner,  Toulouse. Conceded by Granddi Ngoyi.",2,,1,Toulouse,Troyes,granddi ngoyi,granddi ngoyi,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam6,6,8,Benjamin Nivet (Troyes) wins a free kick in the defensive half.,8,,2,Troyes,Toulouse,benjamin nivet,,,,,,0,2.0,,0,,0
+GvLDJnam/,GvLDJnam7,7,8,Foul by Adil Hermach (Toulouse).,3,,1,Toulouse,Troyes,adil hermach,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam8,8,9,Etienne Capoue (Toulouse) wins a free kick in the attacking half.,8,,1,Toulouse,Troyes,etienne capoue,,,,,,0,1.0,,0,,0
+GvLDJnam/,GvLDJnam9,9,9,Foul by Granddi Ngoyi (Troyes).,3,,2,Troyes,Toulouse,granddi ngoyi,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam10,10,13,"Corner,  Toulouse. Conceded by Florian Jarjat.",2,,1,Toulouse,Troyes,florian jarjat,florian jarjat,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam11,11,14,"Offside, Toulouse. Etienne Capoue tries a through ball, but Eden Ben Basat is caught offside.",9,13.0,1,Toulouse,Troyes,eden ben basat,etienne capoue,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam12,12,15,Attempt blocked. Etienne Capoue (Toulouse) right footed shot from outside the box is blocked. Assisted by Franck Tabanou.,1,12.0,1,Toulouse,Troyes,etienne capoue,franck tabanou,,,2.0,3.0,0,15.0,1.0,1,1.0,0
+GvLDJnam/,GvLDJnam13,13,15,"Corner,  Toulouse. Conceded by Fabrice N'Sakala.",2,,1,Toulouse,Troyes,fabrice nsakala,fabrice nsakala,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam14,14,16,Corentin Jean (Troyes) wins a free kick on the left wing.,8,,2,Troyes,Toulouse,corentin jean,,,,,,0,4.0,,0,,0
+GvLDJnam/,GvLDJnam15,15,16,Foul by Steeve Yago (Toulouse).,3,,1,Toulouse,Troyes,steeve yago,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam16,16,17,Fabrice N'Sakala (Troyes) wins a free kick on the left wing.,8,,2,Troyes,Toulouse,fabrice nsakala,,,,,,0,4.0,,0,,0
+GvLDJnam/,GvLDJnam17,17,17,Foul by Yannick (Toulouse).,3,,1,Toulouse,Troyes,yannick,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam18,18,21,Etienne Capoue (Toulouse) is shown the yellow card.,4,,1,Toulouse,Troyes,etienne capoue,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam19,19,22,Foul by Etienne Capoue (Toulouse).,3,,1,Toulouse,Troyes,etienne capoue,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam20,20,22,Granddi Ngoyi (Troyes) wins a free kick in the attacking half.,8,,2,Troyes,Toulouse,granddi ngoyi,,,,,,0,1.0,,0,,0
+GvLDJnam/,GvLDJnam21,21,23,Foul by Etienne Didot (Toulouse).,3,,1,Toulouse,Troyes,etienne didot,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam22,22,23,Quentin Othon (Troyes) wins a free kick in the defensive half.,8,,2,Troyes,Toulouse,quentin othon,,,,,,0,2.0,,0,,0
+GvLDJnam/,GvLDJnam23,23,26,Benjamin Nivet (Troyes) wins a free kick on the left wing.,8,,2,Troyes,Toulouse,benjamin nivet,,,,,,0,4.0,,0,,0
+GvLDJnam/,GvLDJnam24,24,26,Foul by Serge Aurier (Toulouse).,3,,1,Toulouse,Troyes,serge aurier,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam25,25,27,Benjamin Nivet (Troyes) wins a free kick in the defensive half.,8,,2,Troyes,Toulouse,benjamin nivet,,,,,,0,2.0,,0,,0
+GvLDJnam/,GvLDJnam26,26,27,Foul by Etienne Capoue (Toulouse).,3,,1,Toulouse,Troyes,etienne capoue,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam27,27,30,Attempt blocked. Benjamin Nivet (Troyes) right footed shot from outside the box is blocked. Assisted by Fabien Camus.,1,12.0,2,Troyes,Toulouse,benjamin nivet,fabien camus,,,2.0,3.0,0,15.0,1.0,1,1.0,0
+GvLDJnam/,GvLDJnam28,28,31,Foul by Florian Jarjat (Troyes).,3,,2,Troyes,Toulouse,florian jarjat,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam29,29,31,Etienne Didot (Toulouse) wins a free kick in the attacking half.,8,,1,Toulouse,Troyes,etienne didot,,,,,,0,1.0,,0,,0
+GvLDJnam/,GvLDJnam30,30,32,Foul by Eden Ben Basat (Toulouse).,3,,1,Toulouse,Troyes,eden ben basat,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam31,31,32,Granddi Ngoyi (Troyes) wins a free kick in the defensive half.,8,,2,Troyes,Toulouse,granddi ngoyi,,,,,,0,2.0,,0,,0
+GvLDJnam/,GvLDJnam32,32,33,"Corner,  Troyes. Conceded by Steeve Yago.",2,,2,Troyes,Toulouse,steeve yago,steeve yago,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam33,33,35,Attempt blocked. StA©phane Darbion (Troyes) left footed shot from outside the box is blocked. Assisted by Benjamin Nivet.,1,12.0,2,Troyes,Toulouse,stephane darbion,benjamin nivet,,,2.0,3.0,0,15.0,2.0,1,1.0,0
+GvLDJnam/,GvLDJnam34,34,35,"Offside, Troyes. StA©phane Darbion tries a through ball, but Julien Faussurier is caught offside.",9,13.0,2,Troyes,Toulouse,julien faussurier,stephane darbion,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam35,35,36,"Corner,  Toulouse. Conceded by Fabrice N'Sakala.",2,,1,Toulouse,Troyes,fabrice nsakala,fabrice nsakala,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam36,36,37,Foul by Eden Ben Basat (Toulouse).,3,,1,Toulouse,Troyes,eden ben basat,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam37,37,37,Jeremie BrA©chet (Troyes) wins a free kick in the defensive half.,8,,2,Troyes,Toulouse,jeremie brechet,,,,,,0,2.0,,0,,0
+GvLDJnam/,GvLDJnam38,38,38,Etienne Capoue (Toulouse) wins a free kick in the defensive half.,8,,1,Toulouse,Troyes,etienne capoue,,,,,,0,2.0,,0,,0
+GvLDJnam/,GvLDJnam39,39,38,Foul by Granddi Ngoyi (Troyes).,3,,2,Troyes,Toulouse,granddi ngoyi,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam40,40,38,Corentin Jean (Troyes) wins a free kick on the right wing.,8,,2,Troyes,Toulouse,corentin jean,,,,,,0,5.0,,0,,0
+GvLDJnam/,GvLDJnam41,41,38,Foul by Aymen Abdennour (Toulouse).,3,,1,Toulouse,Troyes,aymen abdennour,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam42,42,39,Etienne Capoue (Toulouse) wins a free kick in the defensive half.,8,,1,Toulouse,Troyes,etienne capoue,,,,,,0,2.0,,0,,0
+GvLDJnam/,GvLDJnam43,43,39,Foul by Granddi Ngoyi (Troyes).,3,,2,Troyes,Toulouse,granddi ngoyi,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam44,44,40,Fabien Camus (Troyes) wins a free kick on the left wing.,8,,2,Troyes,Toulouse,fabien camus,,,,,,0,4.0,,0,,0
+GvLDJnam/,GvLDJnam45,45,40,Foul by Adil Hermach (Toulouse).,3,,1,Toulouse,Troyes,adil hermach,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam46,46,40,Adil Hermach (Toulouse) is shown the yellow card for a bad foul.,4,,1,Toulouse,Troyes,adil hermach,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam47,47,41,Attempt missed. Adil Hermach (Toulouse) right footed shot from outside the box is high and wide to the right. Assisted by Etienne Capoue.,1,12.0,1,Toulouse,Troyes,adil hermach,etienne capoue,,,6.0,2.0,0,15.0,1.0,1,1.0,0
+GvLDJnam/,GvLDJnam48,48,41,Eden Ben Basat (Toulouse) wins a free kick in the attacking half.,8,,1,Toulouse,Troyes,eden ben basat,,,,,,0,1.0,,0,,0
+GvLDJnam/,GvLDJnam49,49,41,Foul by Jeremie BrA©chet (Troyes).,3,,2,Troyes,Toulouse,jeremie brechet,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam50,50,45,Foul by Jeremie BrA©chet (Troyes).,3,,2,Troyes,Toulouse,jeremie brechet,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam51,51,45,Yannick (Toulouse) wins a free kick in the attacking half.,8,,1,Toulouse,Troyes,yannick,,,,,,0,1.0,,0,,0
+GvLDJnam/,GvLDJnam52,52,45,Jeremie BrA©chet (Troyes) is shown the yellow card for a bad foul.,4,,2,Troyes,Toulouse,jeremie brechet,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam53,53,45,Attempt blocked. Franck Tabanou (Toulouse) left footed shot from outside the box is blocked.,1,,1,Toulouse,Troyes,franck tabanou,,,,2.0,3.0,0,15.0,2.0,0,1.0,0
+GvLDJnam/,GvLDJnam54,54,45,"Corner,  Toulouse. Conceded by Florian Jarjat.",2,,1,Toulouse,Troyes,florian jarjat,florian jarjat,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam55,55,45,"Substitution, Toulouse. Daniel Braaten replaces Franck Tabanou.",7,,1,Toulouse,Troyes,,,daniel braaten,franck tabanou,,,0,,,0,,0
+GvLDJnam/,GvLDJnam56,56,48,Attempt blocked. Adil Hermach (Toulouse) right footed shot from outside the box is blocked.,1,,1,Toulouse,Troyes,adil hermach,,,,2.0,3.0,0,15.0,1.0,0,1.0,0
+GvLDJnam/,GvLDJnam57,57,49,"Attempt missed. Serge Aurier (Toulouse) right footed shot from a difficult angle on the right is close, but misses to the right. Assisted by Adil Hermach.",1,12.0,1,Toulouse,Troyes,serge aurier,adil hermach,,,9.0,2.0,0,8.0,1.0,1,1.0,0
+GvLDJnam/,GvLDJnam58,58,50,Benjamin Nivet (Troyes) wins a free kick in the defensive half.,8,,2,Troyes,Toulouse,benjamin nivet,,,,,,0,2.0,,0,,0
+GvLDJnam/,GvLDJnam59,59,50,Foul by Adil Hermach (Toulouse).,3,,1,Toulouse,Troyes,adil hermach,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam60,60,50,"Attempt missed. Julien Faussurier (Troyes) right footed shot from the right side of the box is close, but misses to the left. Assisted by Benjamin Nivet.",1,12.0,2,Troyes,Toulouse,julien faussurier,benjamin nivet,,,8.0,2.0,0,11.0,1.0,1,1.0,0
+GvLDJnam/,GvLDJnam61,61,53,Hand ball by Fabrice N'Sakala (Troyes).,10,,2,Troyes,Toulouse,fabrice nsakala,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam62,62,54,Attempt missed. Etienne Capoue (Toulouse) header from the centre of the box misses to the left. Assisted by Etienne Didot with a cross following a set piece situation.,1,12.0,1,Toulouse,Troyes,etienne capoue,etienne didot,,,8.0,2.0,0,3.0,3.0,2,2.0,0
+GvLDJnam/,GvLDJnam63,63,55,Adil Hermach (Toulouse) wins a free kick in the defensive half.,8,,1,Toulouse,Troyes,adil hermach,,,,,,0,2.0,,0,,0
+GvLDJnam/,GvLDJnam64,64,55,Foul by StA©phane Darbion (Troyes).,3,,2,Troyes,Toulouse,stephane darbion,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam65,65,56,"Substitution, Toulouse. Wissam Ben Yedder replaces Adil Hermach.",7,,1,Toulouse,Troyes,,,wissam ben yedder,adil hermach,,,0,,,0,,0
+GvLDJnam/,GvLDJnam66,66,58,Aymen Abdennour (Toulouse) wins a free kick in the defensive half.,8,,1,Toulouse,Troyes,aymen abdennour,,,,,,0,2.0,,0,,0
+GvLDJnam/,GvLDJnam67,67,58,Foul by Corentin Jean (Troyes).,3,,2,Troyes,Toulouse,corentin jean,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam68,68,58,Attempt blocked. Yannick (Toulouse) right footed shot from long range on the left is blocked.,1,,1,Toulouse,Troyes,yannick,,,,2.0,3.0,0,16.0,1.0,0,1.0,0
+GvLDJnam/,GvLDJnam69,69,59,Foul by Cheikh M'Bengue (Toulouse).,3,,1,Toulouse,Troyes,cheikh mbengue,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam70,70,59,StA©phane Darbion (Troyes) wins a free kick in the attacking half.,8,,2,Troyes,Toulouse,stephane darbion,,,,,,0,1.0,,0,,0
+GvLDJnam/,GvLDJnam71,71,60,"Substitution, Troyes. Marcos replaces StA©phane Darbion.",7,,2,Troyes,Toulouse,,,stephane darbion,sta©phane darbion,,,0,,,0,,0
+GvLDJnam/,GvLDJnam72,72,60,Foul by Quentin Othon (Troyes).,3,,2,Troyes,Toulouse,quentin othon,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam73,73,60,Wissam Ben Yedder (Toulouse) wins a free kick in the defensive half.,8,,1,Toulouse,Troyes,wissam ben yedder,,,,,,0,2.0,,0,,0
+GvLDJnam/,GvLDJnam74,74,62,Foul by Steeve Yago (Toulouse).,3,,1,Toulouse,Troyes,steeve yago,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam75,75,62,Marcos (Troyes) wins a free kick on the left wing.,8,,2,Troyes,Toulouse,marcos,,,,,,0,4.0,,0,,0
+GvLDJnam/,GvLDJnam76,76,62,Foul by Granddi Ngoyi (Troyes).,3,,2,Troyes,Toulouse,granddi ngoyi,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam77,77,62,Wissam Ben Yedder (Toulouse) wins a free kick in the attacking half.,8,,1,Toulouse,Troyes,wissam ben yedder,,,,,,0,1.0,,0,,0
+GvLDJnam/,GvLDJnam78,78,65,"Corner,  Toulouse. Conceded by Fabrice N'Sakala.",2,,1,Toulouse,Troyes,fabrice nsakala,fabrice nsakala,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam79,79,65,"Corner,  Toulouse. Conceded by Granddi Ngoyi.",2,,1,Toulouse,Troyes,granddi ngoyi,granddi ngoyi,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam80,80,66,Foul by Julien Faussurier (Troyes).,3,,2,Troyes,Toulouse,julien faussurier,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam81,81,66,Serge Aurier (Toulouse) wins a free kick on the right wing.,8,,1,Toulouse,Troyes,serge aurier,,,,,,0,5.0,,0,,0
+GvLDJnam/,GvLDJnam82,82,67,Foul by Benjamin Nivet (Troyes).,3,,2,Troyes,Toulouse,benjamin nivet,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam83,83,67,Serge Aurier (Toulouse) wins a free kick on the left wing.,8,,1,Toulouse,Troyes,serge aurier,,,,,,0,4.0,,0,,0
+GvLDJnam/,GvLDJnam84,84,68,Attempt missed. Etienne Capoue (Toulouse) header from the centre of the box misses to the right. Assisted by Aymen Abdennour.,1,12.0,1,Toulouse,Troyes,etienne capoue,aymen abdennour,,,9.0,2.0,0,3.0,3.0,1,1.0,0
+GvLDJnam/,GvLDJnam85,85,70,Attempt saved. Corentin Jean (Troyes) right footed shot from outside the box is saved in the bottom left corner. Assisted by Marcos.,1,12.0,2,Troyes,Toulouse,corentin jean,marcos,,,3.0,1.0,0,15.0,1.0,1,1.0,0
+GvLDJnam/,GvLDJnam86,86,71,"Substitution, Troyes. Mohamed Yattara replaces Corentin Jean.",7,,2,Troyes,Toulouse,,,mohamed yattara,corentin jean,,,0,,,0,,0
+GvLDJnam/,GvLDJnam87,87,72,Attempt blocked. Mohamed Yattara (Troyes) left footed shot from the left side of the box is blocked. Assisted by Benjamin Nivet.,1,12.0,2,Troyes,Toulouse,mohamed yattara,benjamin nivet,,,2.0,3.0,0,9.0,2.0,1,1.0,0
+GvLDJnam/,GvLDJnam88,88,72,Attempt saved. Mohamed Yattara (Troyes) right footed shot from the left side of the six yard box is saved in the bottom left corner.,1,,2,Troyes,Toulouse,mohamed yattara,,,,3.0,1.0,0,10.0,1.0,0,1.0,0
+GvLDJnam/,GvLDJnam89,89,72,"Corner,  Troyes. Conceded by Ali Ahamada.",2,,2,Troyes,Toulouse,ali ahamada,ali ahamada,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam90,90,73,Attempt missed. Quentin Othon (Troyes) left footed shot from outside the box misses to the left following a corner.,1,,2,Troyes,Toulouse,quentin othon,,,,8.0,2.0,0,15.0,2.0,0,3.0,0
+GvLDJnam/,GvLDJnam91,91,73,"Substitution, Toulouse. Adrien Regattin replaces Yannick.",7,,1,Toulouse,Troyes,,,adrien regattin,yannick,,,0,,,0,,0
+GvLDJnam/,GvLDJnam92,92,75,Foul by Aymen Abdennour (Toulouse).,3,,1,Toulouse,Troyes,aymen abdennour,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam93,93,75,Marcos (Troyes) wins a free kick in the attacking half.,8,,2,Troyes,Toulouse,marcos,,,,,,0,1.0,,0,,0
+GvLDJnam/,GvLDJnam94,94,75,"Attempt missed. Fabien Camus (Troyes) right footed shot from the left side of the box is close, but misses to the left. Assisted by Marcos following a set piece situation.",1,12.0,2,Troyes,Toulouse,fabien camus,marcos,,,8.0,2.0,0,9.0,1.0,1,2.0,0
+GvLDJnam/,GvLDJnam95,95,76,"Corner,  Toulouse. Conceded by Jeremie BrA©chet.",2,,1,Toulouse,Troyes,jeremie bra©chet,jeremie bra©chet,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam96,96,78,"Goal!  Toulouse 0, Troyes 1. Mohamed Yattara (Troyes) right footed shot from very close range to the centre of the goal.",1,,2,Troyes,Toulouse,mohamed yattara,,,,5.0,1.0,1,13.0,1.0,0,1.0,0
+GvLDJnam/,GvLDJnam97,97,79,Adrien Regattin (Toulouse) wins a free kick on the left wing.,8,,1,Toulouse,Troyes,adrien regattin,,,,,,0,4.0,,0,,0
+GvLDJnam/,GvLDJnam98,98,79,Foul by Mohamed Yattara (Troyes).,3,,2,Troyes,Toulouse,mohamed yattara,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam99,99,80,"Attempt missed. Eden Ben Basat (Toulouse) header from a difficult angle on the right is close, but misses to the right. Assisted by Etienne Didot with a cross following a set piece situation.",1,12.0,1,Toulouse,Troyes,eden ben basat,etienne didot,,,9.0,2.0,0,8.0,3.0,2,2.0,0
+GvLDJnam/,GvLDJnam100,100,83,"Corner,  Toulouse. Conceded by Quentin Othon.",2,,1,Toulouse,Troyes,quentin othon,quentin othon,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam101,101,83,Attempt saved. Mohamed Yattara (Troyes) right footed shot from the left side of the box is saved in the centre of the goal. Assisted by Granddi Ngoyi.,1,12.0,2,Troyes,Toulouse,mohamed yattara,granddi ngoyi,,,5.0,1.0,0,9.0,1.0,1,1.0,0
+GvLDJnam/,GvLDJnam102,102,83,"Goal!  Toulouse 0, Troyes 2. Benjamin Nivet (Troyes) right footed shot from the centre of the box to the high centre of the goal.",1,,2,Troyes,Toulouse,benjamin nivet,,,,,1.0,1,3.0,1.0,0,1.0,0
+GvLDJnam/,GvLDJnam103,103,85,Eden Ben Basat (Toulouse) wins a free kick in the attacking half.,8,,1,Toulouse,Troyes,eden ben basat,,,,,,0,1.0,,0,,0
+GvLDJnam/,GvLDJnam104,104,85,Foul by Quentin Othon (Troyes).,3,,2,Troyes,Toulouse,quentin othon,,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam105,105,86,Attempt blocked. Adrien Regattin (Toulouse) right footed shot from outside the box is blocked.,1,,1,Toulouse,Troyes,adrien regattin,,,,2.0,3.0,0,15.0,1.0,0,1.0,0
+GvLDJnam/,GvLDJnam106,106,86,Eden Ben Basat (Toulouse) hits the right post with a left footed shot from the centre of the box following a set piece situation.,1,,1,Toulouse,Troyes,eden ben basat,,,,7.0,4.0,0,3.0,2.0,0,2.0,0
+GvLDJnam/,GvLDJnam107,107,86,Attempt blocked. Aymen Abdennour (Toulouse) right footed shot from very close range is blocked.,1,,1,Toulouse,Troyes,aymen abdennour,,,,2.0,3.0,0,13.0,1.0,0,1.0,0
+GvLDJnam/,GvLDJnam108,108,86,Serge Aurier (Toulouse) hits the left post with a left footed shot from the left side of the six yard box following a set piece situation.,1,,1,Toulouse,Troyes,serge aurier,,,,7.0,4.0,0,10.0,2.0,0,2.0,0
+GvLDJnam/,GvLDJnam109,109,86,"Goal!  Toulouse 1, Troyes 2. Eden Ben Basat (Toulouse) right footed shot from very close range to the bottom right corner following a set piece situation.",1,,1,Toulouse,Troyes,eden ben basat,,,,4.0,1.0,1,13.0,1.0,0,2.0,0
+GvLDJnam/,GvLDJnam110,110,88,"Own Goal by Benjamin Nivet, Troyes.  Toulouse 2, Troyes 2.",1,15.0,1,Toulouse,Troyes,benjamin nivet,,,,,,1,19.0,1.0,0,1.0,0
+GvLDJnam/,GvLDJnam111,111,90,"Corner,  Toulouse. Conceded by Granddi Ngoyi.",2,,1,Toulouse,Troyes,granddi ngoyi,granddi ngoyi,,,,,0,,,0,,0
+GvLDJnam/,GvLDJnam112,112,90,"Attempt missed. Serge Aurier (Toulouse) header from the centre of the box is close, but misses to the left. Assisted by Wissam Ben Yedder with a cross following a set piece situation.",1,12.0,1,Toulouse,Troyes,serge aurier,wissam ben yedder,,,8.0,2.0,0,3.0,3.0,2,2.0,0
+GvLDJnam/,GvLDJnam113,113,90,Fabrice N'Sakala (Troyes) wins a free kick in the defensive half.,8,,2,Troyes,Toulouse,fabrice nsakala,,,,,,0,2.0,,0,,0
+GvLDJnam/,GvLDJnam114,114,90,Foul by Eden Ben Basat (Toulouse).,3,,1,Toulouse,Troyes,eden ben basat,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq1,1,1,Maynor Figueroa (Hull City) wins a free kick on the left wing.,8,,1,Hull,Manchester Utd,maynor figueroa,,,,,,0,4.0,,0,,0
+UXmZDbTq/,UXmZDbTq2,2,1,Foul by Luis Antonio Valencia (Manchester United).,3,,2,Manchester Utd,Hull,luis antonio valencia,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq3,3,3,"Corner,  Hull City. Conceded by Tom Cleverley.",2,,1,Hull,Manchester Utd,tom cleverley,tom cleverley,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq4,4,4,Attempt blocked. Alex Bruce (Hull City) header from the centre of the box is blocked. Assisted by Tom Huddlestone with a cross.,1,12.0,1,Hull,Manchester Utd,alex bruce,tom huddlestone,,,2.0,3.0,0,3.0,3.0,2,1.0,0
+UXmZDbTq/,UXmZDbTq5,5,4,"Goal!        Goal!  Hull City 1, Manchester United 0. James Chester (Hull City) left footed shot from very close range to the high centre of the goal following a corner.",1,,1,Hull,Manchester Utd,james chester,,,,5.0,1.0,1,13.0,2.0,0,3.0,0
+UXmZDbTq/,UXmZDbTq6,6,5,Maynor Figueroa (Hull City) wins a free kick in the defensive half.,8,,1,Hull,Manchester Utd,maynor figueroa,,,,,,0,2.0,,0,,0
+UXmZDbTq/,UXmZDbTq7,7,5,Foul by Luis Antonio Valencia (Manchester United).,3,,2,Manchester Utd,Hull,luis antonio valencia,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq8,8,7,Foul by Maynor Figueroa (Hull City).,3,,1,Hull,Manchester Utd,maynor figueroa,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq9,9,7,Luis Antonio Valencia (Manchester United) wins a free kick in the defensive half.,8,,2,Manchester Utd,Hull,luis antonio valencia,,,,,,0,2.0,,0,,0
+UXmZDbTq/,UXmZDbTq10,10,9,Foul by Ashley Young (Manchester United).,3,,2,Manchester Utd,Hull,ashley young,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq11,11,9,Allan McGregor (Hull City) wins a free kick in the defensive half.,8,,1,Hull,Manchester Utd,allan mcgregor,,,,,,0,2.0,,0,,0
+UXmZDbTq/,UXmZDbTq12,12,12,Attempt missed. David Meyler (Hull City) right footed shot from the left side of the box misses to the right. Assisted by Jake Livermore.,1,12.0,1,Hull,Manchester Utd,david meyler,jake livermore,,,9.0,2.0,0,9.0,1.0,1,1.0,0
+UXmZDbTq/,UXmZDbTq13,13,12,"Goal!        Goal!  Hull City 2, Manchester United 0. David Meyler (Hull City) right footed shot from the centre of the box to the centre of the goal.",1,,1,Hull,Manchester Utd,david meyler,,,,5.0,1.0,1,3.0,1.0,0,1.0,0
+UXmZDbTq/,UXmZDbTq14,14,15,Foul by Wayne Rooney (Manchester United).,3,,2,Manchester Utd,Hull,wayne rooney,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq15,15,15,Tom Huddlestone (Hull City) wins a free kick in the defensive half.,8,,1,Hull,Manchester Utd,tom huddlestone,,,,,,0,2.0,,0,,0
+UXmZDbTq/,UXmZDbTq16,16,17,Attempt missed. Luis Antonio Valencia (Manchester United) header from the centre of the box misses to the left. Assisted by Rafael with a cross.,1,12.0,2,Manchester Utd,Hull,luis antonio valencia,rafael,,,8.0,2.0,0,3.0,3.0,2,1.0,0
+UXmZDbTq/,UXmZDbTq17,17,18,"Substitution      Substitution, Manchester United. Adnan Januzaj replaces Rafael because of an injury.",7,,2,Manchester Utd,Hull,,,adnan januzaj,rafael,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq18,18,18,Adnan Januzaj (Manchester United) wins a free kick on the right wing.,8,,2,Manchester Utd,Hull,adnan januzaj,,,,,,0,5.0,,0,,0
+UXmZDbTq/,UXmZDbTq19,19,18,Foul by Maynor Figueroa (Hull City).,3,,1,Hull,Manchester Utd,maynor figueroa,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq20,20,18,Booking      Maynor Figueroa (Hull City) is shown the yellow card for a bad foul.,4,,1,Hull,Manchester Utd,maynor figueroa,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq21,21,19,"Goal!        Goal!  Hull City 2, Manchester United 1. Chris Smalling (Manchester United) header from the centre of the box to the bottom left corner. Assisted by Wayne Rooney with a cross following a set piece situation.",1,12.0,2,Manchester Utd,Hull,chris smalling,wayne rooney,,,3.0,1.0,1,3.0,3.0,2,2.0,0
+UXmZDbTq/,UXmZDbTq22,22,20,Attempt blocked. David Meyler (Hull City) header from the centre of the box is blocked. Assisted by Ahmed Elmohamady with a cross.,1,12.0,1,Hull,Manchester Utd,david meyler,ahmed elmohamady,,,2.0,3.0,0,3.0,3.0,2,1.0,0
+UXmZDbTq/,UXmZDbTq23,23,20,Danny Welbeck (Manchester United) wins a free kick in the attacking half.,8,,2,Manchester Utd,Hull,danny welbeck,,,,,,0,1.0,,0,,0
+UXmZDbTq/,UXmZDbTq24,24,20,Foul by Tom Huddlestone (Hull City).,3,,1,Hull,Manchester Utd,tom huddlestone,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq25,25,21,Attempt blocked. Danny Welbeck (Manchester United) header from the centre of the box is blocked. Assisted by Wayne Rooney with a cross.,1,12.0,2,Manchester Utd,Hull,danny welbeck,wayne rooney,,,2.0,3.0,0,3.0,3.0,2,1.0,0
+UXmZDbTq/,UXmZDbTq26,26,21,"Corner,  Manchester United. Conceded by James Chester.",2,,2,Manchester Utd,Hull,james chester,james chester,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq27,27,21,Attempt saved. Tom Cleverley (Manchester United) right footed shot from outside the box is saved in the top right corner. Assisted by Ashley Young.,1,12.0,2,Manchester Utd,Hull,tom cleverley,ashley young,,,13.0,1.0,0,15.0,1.0,1,1.0,0
+UXmZDbTq/,UXmZDbTq28,28,21,"Corner,  Manchester United. Conceded by Allan McGregor.",2,,2,Manchester Utd,Hull,allan mcgregor,allan mcgregor,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq29,29,21,Attempt missed. Wayne Rooney (Manchester United) right footed shot from the centre of the box is too high. Assisted by Adnan Januzaj with a cross following a corner.,1,12.0,2,Manchester Utd,Hull,wayne rooney,adnan januzaj,,,10.0,2.0,0,3.0,1.0,2,3.0,0
+UXmZDbTq/,UXmZDbTq30,30,25,"Goal!        Goal!  Hull City 2, Manchester United 2. Wayne Rooney (Manchester United) right footed shot from outside the box to the top left corner.",1,,2,Manchester Utd,Hull,wayne rooney,,,,12.0,1.0,1,15.0,1.0,0,1.0,0
+UXmZDbTq/,UXmZDbTq31,31,27,Danny Welbeck (Manchester United) wins a free kick on the left wing.,8,,2,Manchester Utd,Hull,danny welbeck,,,,,,0,4.0,,0,,0
+UXmZDbTq/,UXmZDbTq32,32,27,Foul by Jake Livermore (Hull City).,3,,1,Hull,Manchester Utd,jake livermore,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq33,33,33,Foul by Luis Antonio Valencia (Manchester United).,3,,2,Manchester Utd,Hull,luis antonio valencia,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq34,34,33,David Meyler (Hull City) wins a free kick in the defensive half.,8,,1,Hull,Manchester Utd,david meyler,,,,,,0,2.0,,0,,0
+UXmZDbTq/,UXmZDbTq35,35,34,Foul by Adnan Januzaj (Manchester United).,3,,2,Manchester Utd,Hull,adnan januzaj,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq36,36,34,Ahmed Elmohamady (Hull City) wins a free kick on the right wing.,8,,1,Hull,Manchester Utd,ahmed elmohamady,,,,,,0,5.0,,0,,0
+UXmZDbTq/,UXmZDbTq37,37,34,Booking      Adnan Januzaj (Manchester United) is shown the yellow card for a bad foul.,4,,2,Manchester Utd,Hull,adnan januzaj,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq38,38,36,Patrice Evra (Manchester United) wins a free kick on the left wing.,8,,2,Manchester Utd,Hull,patrice evra,,,,,,0,4.0,,0,,0
+UXmZDbTq/,UXmZDbTq39,39,36,Foul by Ahmed Elmohamady (Hull City).,3,,1,Hull,Manchester Utd,ahmed elmohamady,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq40,40,37,Attempt blocked. Adnan Januzaj (Manchester United) left footed shot from outside the box is blocked. Assisted by Danny Welbeck.,1,12.0,2,Manchester Utd,Hull,adnan januzaj,danny welbeck,,,2.0,3.0,0,15.0,2.0,1,1.0,0
+UXmZDbTq/,UXmZDbTq41,41,40,Foul by Luis Antonio Valencia (Manchester United).,3,,2,Manchester Utd,Hull,luis antonio valencia,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq42,42,40,David Meyler (Hull City) wins a free kick in the defensive half.,8,,1,Hull,Manchester Utd,david meyler,,,,,,0,2.0,,0,,0
+UXmZDbTq/,UXmZDbTq43,43,41,Attempt blocked. Danny Graham (Hull City) right footed shot from outside the box is blocked.,1,,1,Hull,Manchester Utd,danny graham,,,,2.0,3.0,0,15.0,1.0,0,1.0,0
+UXmZDbTq/,UXmZDbTq44,44,41,"Corner,  Hull City. Conceded by Jonny Evans.",2,,1,Hull,Manchester Utd,jonny evans,jonny evans,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq45,45,44,Foul by Luis Antonio Valencia (Manchester United).,3,,2,Manchester Utd,Hull,luis antonio valencia,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq46,46,44,Yannick Sagbo (Hull City) wins a free kick in the defensive half.,8,,1,Hull,Manchester Utd,yannick sagbo,,,,,,0,2.0,,0,,0
+UXmZDbTq/,UXmZDbTq47,47,45,"Substitution      Substitution, Hull City. Robert Koren replaces David Meyler because of an injury.",7,,1,Hull,Manchester Utd,,,robert koren,david meyler,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq48,48,45,"Substitution      Substitution, Hull City. Steve Harper replaces Allan McGregor because of an injury.",7,,1,Hull,Manchester Utd,,,steve harper,allan mcgregor,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq49,49,46,Attempt blocked. Wayne Rooney (Manchester United) right footed shot from outside the box is blocked. Assisted by Patrice Evra.,1,12.0,2,Manchester Utd,Hull,wayne rooney,patrice evra,,,2.0,3.0,0,15.0,1.0,1,1.0,0
+UXmZDbTq/,UXmZDbTq50,50,47,Attempt missed. Ashley Young (Manchester United) right footed shot from long range on the left is high and wide to the right. Assisted by Danny Welbeck.,1,12.0,2,Manchester Utd,Hull,ashley young,danny welbeck,,,6.0,2.0,0,16.0,1.0,1,1.0,0
+UXmZDbTq/,UXmZDbTq51,51,47,Attempt blocked. Adnan Januzaj (Manchester United) left footed shot from the right side of the box is blocked. Assisted by Wayne Rooney.,1,12.0,2,Manchester Utd,Hull,adnan januzaj,wayne rooney,,,2.0,3.0,0,11.0,2.0,1,1.0,0
+UXmZDbTq/,UXmZDbTq52,52,48,Foul by Adnan Januzaj (Manchester United).,3,,2,Manchester Utd,Hull,adnan januzaj,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq53,53,48,Curtis Davies (Hull City) wins a free kick in the defensive half.,8,,1,Hull,Manchester Utd,curtis davies,,,,,,0,2.0,,0,,0
+UXmZDbTq/,UXmZDbTq54,54,50,Adnan Januzaj (Manchester United) wins a free kick on the right wing.,8,,2,Manchester Utd,Hull,adnan januzaj,,,,,,0,5.0,,0,,0
+UXmZDbTq/,UXmZDbTq55,55,50,Foul by Curtis Davies (Hull City).,3,,1,Hull,Manchester Utd,curtis davies,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq56,56,52,Attempt saved. Yannick Sagbo (Hull City) right footed shot from outside the box is saved in the top centre of the goal. Assisted by Danny Graham.,1,12.0,1,Hull,Manchester Utd,yannick sagbo,danny graham,,,11.0,1.0,0,15.0,1.0,1,1.0,0
+UXmZDbTq/,UXmZDbTq57,57,53,Attempt blocked. Tom Huddlestone (Hull City) left footed shot from outside the box is blocked. Assisted by Robert Koren.,1,12.0,1,Hull,Manchester Utd,tom huddlestone,robert koren,,,2.0,3.0,0,15.0,2.0,1,1.0,0
+UXmZDbTq/,UXmZDbTq58,58,53,"Corner,  Hull City. Conceded by Chris Smalling.",2,,1,Hull,Manchester Utd,chris smalling,chris smalling,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq59,59,53,Attempt missed. Curtis Davies (Hull City) header from very close range misses to the right. Assisted by Tom Huddlestone with a cross following a corner.,1,12.0,1,Hull,Manchester Utd,curtis davies,tom huddlestone,,,9.0,2.0,0,13.0,3.0,2,3.0,0
+UXmZDbTq/,UXmZDbTq60,60,54,"Corner,  Manchester United. Conceded by Ahmed Elmohamady.",2,,2,Manchester Utd,Hull,ahmed elmohamady,ahmed elmohamady,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq61,61,56,Foul by Tom Cleverley (Manchester United).,3,,2,Manchester Utd,Hull,tom cleverley,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq62,62,56,Alex Bruce (Hull City) wins a free kick in the defensive half.,8,,1,Hull,Manchester Utd,alex bruce,,,,,,0,2.0,,0,,0
+UXmZDbTq/,UXmZDbTq63,63,58,Attempt saved. Darren Fletcher (Manchester United) right footed shot from outside the box is saved in the centre of the goal. Assisted by Patrice Evra.,1,12.0,2,Manchester Utd,Hull,darren fletcher,patrice evra,,,5.0,1.0,0,15.0,1.0,1,1.0,0
+UXmZDbTq/,UXmZDbTq64,64,60,Foul by Luis Antonio Valencia (Manchester United).,3,,2,Manchester Utd,Hull,luis antonio valencia,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq65,65,60,Yannick Sagbo (Hull City) wins a free kick in the attacking half.,8,,1,Hull,Manchester Utd,yannick sagbo,,,,,,0,1.0,,0,,0
+UXmZDbTq/,UXmZDbTq66,66,60,Booking      Luis Antonio Valencia (Manchester United) is shown the yellow card for a bad foul.,4,,2,Manchester Utd,Hull,luis antonio valencia,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq67,67,61,"Substitution      Substitution, Manchester United. Javier Hernandez replaces Darren Fletcher.",7,,2,Manchester Utd,Hull,,,javier hernandez,darren fletcher,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq68,68,62,Attempt blocked. Tom Huddlestone (Hull City) right footed shot from outside the box is blocked.,1,,1,Hull,Manchester Utd,tom huddlestone,,,,2.0,3.0,0,15.0,1.0,0,1.0,0
+UXmZDbTq/,UXmZDbTq69,69,62,"Corner,  Hull City. Conceded by Patrice Evra.",2,,1,Hull,Manchester Utd,patrice evra,patrice evra,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq70,70,65,Jonny Evans (Manchester United) wins a free kick in the defensive half.,8,,2,Manchester Utd,Hull,jonny evans,,,,,,0,2.0,,0,,0
+UXmZDbTq/,UXmZDbTq71,71,65,Foul by Danny Graham (Hull City).,3,,1,Hull,Manchester Utd,danny graham,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq72,72,66,"Goal!        Own Goal by James Chester, Hull City.  Hull City 2, Manchester United 3.",1,15.0,2,Manchester Utd,Hull,james chester,,,,,,1,19.0,1.0,0,1.0,0
+UXmZDbTq/,UXmZDbTq73,73,70,"Corner,  Manchester United. Conceded by Curtis Davies.",2,,2,Manchester Utd,Hull,curtis davies,curtis davies,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq74,74,71,Danny Welbeck (Manchester United) wins a free kick in the attacking half.,8,,2,Manchester Utd,Hull,danny welbeck,,,,,,0,1.0,,0,,0
+UXmZDbTq/,UXmZDbTq75,75,71,Foul by Alex Bruce (Hull City).,3,,1,Hull,Manchester Utd,alex bruce,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq76,76,71,Booking      Alex Bruce (Hull City) is shown the yellow card for a bad foul.,4,,1,Hull,Manchester Utd,alex bruce,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq77,77,72,Attempt missed. Wayne Rooney (Manchester United) right footed shot from outside the box misses to the right from a direct free kick.,1,,2,Manchester Utd,Hull,wayne rooney,,,,9.0,2.0,0,15.0,1.0,0,4.0,0
+UXmZDbTq/,UXmZDbTq78,78,72,Booking      Wayne Rooney (Manchester United) is shown the yellow card.,4,,2,Manchester Utd,Hull,wayne rooney,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq79,79,73,"Substitution      Substitution, Hull City. George Boyd replaces Maynor Figueroa.",7,,1,Hull,Manchester Utd,,,george boyd,maynor figueroa,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq80,80,77,"Corner,  Manchester United. Conceded by Ahmed Elmohamady.",2,,2,Manchester Utd,Hull,ahmed elmohamady,ahmed elmohamady,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq81,81,77,"Substitution      Substitution, Manchester United. Michael Carrick replaces Ashley Young.",7,,2,Manchester Utd,Hull,,,michael carrick,ashley young,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq82,82,78,Attempt missed. Danny Welbeck (Manchester United) left footed shot from outside the box misses to the right.,1,,2,Manchester Utd,Hull,danny welbeck,,,,9.0,2.0,0,15.0,2.0,0,1.0,0
+UXmZDbTq/,UXmZDbTq83,83,79,Tom Cleverley (Manchester United) wins a free kick in the defensive half.,8,,2,Manchester Utd,Hull,tom cleverley,,,,,,0,2.0,,0,,0
+UXmZDbTq/,UXmZDbTq84,84,79,Foul by Yannick Sagbo (Hull City).,3,,1,Hull,Manchester Utd,yannick sagbo,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq85,85,85,Wayne Rooney (Manchester United) wins a free kick in the defensive half.,8,,2,Manchester Utd,Hull,wayne rooney,,,,,,0,2.0,,0,,0
+UXmZDbTq/,UXmZDbTq86,86,85,Foul by Tom Huddlestone (Hull City).,3,,1,Hull,Manchester Utd,tom huddlestone,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq87,87,87,Attempt saved. Danny Graham (Hull City) header from the left side of the six yard box is saved in the bottom left corner. Assisted by Yannick Sagbo with a cross.,1,12.0,1,Hull,Manchester Utd,danny graham,yannick sagbo,,,3.0,1.0,0,10.0,3.0,2,1.0,0
+UXmZDbTq/,UXmZDbTq88,88,88,Wayne Rooney (Manchester United) wins a free kick in the defensive half.,8,,2,Manchester Utd,Hull,wayne rooney,,,,,,0,2.0,,0,,0
+UXmZDbTq/,UXmZDbTq89,89,88,Foul by Ahmed Elmohamady (Hull City).,3,,1,Hull,Manchester Utd,ahmed elmohamady,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq90,90,90,Foul by Luis Antonio Valencia (Manchester United).,3,,2,Manchester Utd,Hull,luis antonio valencia,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq91,91,90,Tom Huddlestone (Hull City) wins a free kick in the defensive half.,8,,1,Hull,Manchester Utd,tom huddlestone,,,,,,0,2.0,,0,,0
+UXmZDbTq/,UXmZDbTq92,92,90,Dismissal      Second yellow card to Luis Antonio Valencia (Manchester United).,4,14.0,2,Manchester Utd,Hull,luis antonio valencia,,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq93,93,91,"Corner,  Hull City. Conceded by Wayne Rooney.",2,,1,Hull,Manchester Utd,wayne rooney,wayne rooney,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq94,94,91,Attempt missed. James Chester (Hull City) header from the centre of the box is too high. Assisted by Jake Livermore with a cross following a corner.,1,12.0,1,Hull,Manchester Utd,james chester,jake livermore,,,10.0,2.0,0,3.0,3.0,2,3.0,0
+UXmZDbTq/,UXmZDbTq95,95,92,Attempt saved. James Chester (Hull City) left footed shot from the centre of the box is saved in the bottom left corner. Assisted by George Boyd with a through ball.,1,12.0,1,Hull,Manchester Utd,james chester,george boyd,,,3.0,1.0,0,3.0,2.0,4,1.0,0
+UXmZDbTq/,UXmZDbTq96,96,92,"Corner,  Hull City. Conceded by David de Gea.",2,,1,Hull,Manchester Utd,david de gea,david de gea,,,,,0,,,0,,0
+UXmZDbTq/,UXmZDbTq97,97,93,Attempt missed. Robert Koren (Hull City) right footed shot from outside the box misses to the left following a corner.,1,,1,Hull,Manchester Utd,robert koren,,,,8.0,2.0,0,15.0,1.0,0,3.0,0
+UXmZDbTq/,UXmZDbTq98,98,93,Attempt blocked. Jake Livermore (Hull City) right footed shot from outside the box is blocked. Assisted by Alex Bruce.,1,12.0,1,Hull,Manchester Utd,jake livermore,alex bruce,,,2.0,3.0,0,15.0,1.0,1,1.0,0
+UXmZDbTq/,UXmZDbTq99,99,93,Attempt missed. Alex Bruce (Hull City) right footed shot from the centre of the box misses to the left. Assisted by Curtis Davies with a headed pass.,1,12.0,1,Hull,Manchester Utd,alex bruce,curtis davies,,,8.0,2.0,0,3.0,1.0,3,1.0,0
+IVwp48Un/,IVwp48Un1,1,1,Wayne Rooney (Manchester United) wins a free kick in the defensive half.,8,,2,Manchester Utd,Arsenal,wayne rooney,,,,,,0,2.0,,0,,0
+IVwp48Un/,IVwp48Un2,2,1,Foul by Mikel Arteta (Arsenal).,3,,1,Arsenal,Manchester Utd,mikel arteta,,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un3,3,3,"Offside, Manchester United. Luke Shaw tries a through ball, but Robin van Persie is caught offside.",9,13.0,2,Manchester Utd,Arsenal,robin van persie,luke shaw,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un4,4,5,Attempt missed. Danny Welbeck (Arsenal) right footed shot from a difficult angle on the right misses to the left. Assisted by Alex Oxlade-Chamberlain.,1,12.0,1,Arsenal,Manchester Utd,danny welbeck,alex oxladechamberlain,,,8.0,2.0,0,8.0,1.0,1,1.0,0
+IVwp48Un/,IVwp48Un5,5,5,"Corner,  Arsenal. Conceded by Patrick McNair.",2,,1,Arsenal,Manchester Utd,patrick mcnair,patrick mcnair,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un6,6,5,Attempt missed. Per Mertesacker (Arsenal) header from the centre of the box misses to the left. Assisted by Alexis Sanchez with a cross following a corner.,1,12.0,1,Arsenal,Manchester Utd,per mertesacker,alexis sanchez,,,8.0,2.0,0,3.0,3.0,2,3.0,0
+IVwp48Un/,IVwp48Un7,7,8,Attempt missed. Danny Welbeck (Arsenal) header from the centre of the box is too high. Assisted by Alex Oxlade-Chamberlain with a cross.,1,12.0,1,Arsenal,Manchester Utd,danny welbeck,alex oxladechamberlain,,,10.0,2.0,0,3.0,3.0,2,1.0,0
+IVwp48Un/,IVwp48Un8,8,10,Marouane Fellaini (Manchester United) wins a free kick in the defensive half.,8,,2,Manchester Utd,Arsenal,marouane fellaini,,,,,,0,2.0,,0,,0
+IVwp48Un/,IVwp48Un9,9,10,Foul by Alexis Sanchez (Arsenal).,3,,1,Arsenal,Manchester Utd,alexis sanchez,,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un10,10,12,Attempt saved. Jack Wilshere (Arsenal) left footed shot from outside the box is saved in the centre of the goal. Assisted by Aaron Ramsey.,1,12.0,1,Arsenal,Manchester Utd,jack wilshere,aaron ramsey,,,5.0,1.0,0,15.0,2.0,1,1.0,0
+IVwp48Un/,IVwp48Un11,11,13,Attempt saved. Danny Welbeck (Arsenal) right footed shot from outside the box is saved in the bottom right corner. Assisted by Alex Oxlade-Chamberlain.,1,12.0,1,Arsenal,Manchester Utd,danny welbeck,alex oxladechamberlain,,,4.0,1.0,0,15.0,1.0,1,1.0,0
+IVwp48Un/,IVwp48Un12,12,14,Attempt saved. Jack Wilshere (Arsenal) left footed shot from the centre of the box is saved in the bottom right corner. Assisted by Danny Welbeck with a through ball.,1,12.0,1,Arsenal,Manchester Utd,jack wilshere,danny welbeck,,,4.0,1.0,0,3.0,2.0,4,1.0,0
+IVwp48Un/,IVwp48Un13,13,15,"Substitution      Substitution, Manchester United. Ashley Young replaces Luke Shaw because of an injury.",7,,2,Manchester Utd,Arsenal,,,ashley young,luke shaw,,,0,,,0,,0
+IVwp48Un/,IVwp48Un14,14,19,Foul by Aaron Ramsey (Arsenal).,3,,1,Arsenal,Manchester Utd,aaron ramsey,,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un15,15,19,Angel Di Maria (Manchester United) wins a free kick in the attacking half.,8,,2,Manchester Utd,Arsenal,angel di maria,,,,,,0,1.0,,0,,0
+IVwp48Un/,IVwp48Un16,16,20,Attempt missed. Wayne Rooney (Manchester United) right footed shot from outside the box is high and wide to the left from a direct free kick.,1,,2,Manchester Utd,Arsenal,wayne rooney,,,,6.0,2.0,0,15.0,1.0,0,4.0,0
+IVwp48Un/,IVwp48Un17,17,21,Mikel Arteta (Arsenal) wins a free kick on the left wing.,8,,1,Arsenal,Manchester Utd,mikel arteta,,,,,,0,4.0,,0,,0
+IVwp48Un/,IVwp48Un18,18,21,Foul by Robin van Persie (Manchester United).,3,,2,Manchester Utd,Arsenal,robin van persie,,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un19,19,22,Attempt saved. Alex Oxlade-Chamberlain (Arsenal) left footed shot from the left side of the box is saved in the bottom left corner. Assisted by Alexis Sanchez with a through ball.,1,12.0,1,Arsenal,Manchester Utd,alex oxladechamberlain,alexis sanchez,,,3.0,1.0,0,9.0,2.0,4,1.0,0
+IVwp48Un/,IVwp48Un20,20,23,Danny Welbeck (Arsenal) wins a free kick in the defensive half.,8,,1,Arsenal,Manchester Utd,danny welbeck,,,,,,0,2.0,,0,,0
+IVwp48Un/,IVwp48Un21,21,23,Foul by Chris Smalling (Manchester United).,3,,2,Manchester Utd,Arsenal,chris smalling,,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un22,22,25,"Corner,  Arsenal. Conceded by Tyler Blackett.",2,,1,Arsenal,Manchester Utd,tyler blackett,tyler blackett,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un23,23,26,Attempt blocked. Alexis Sanchez (Arsenal) right footed shot from outside the box is blocked. Assisted by Danny Welbeck.,1,12.0,1,Arsenal,Manchester Utd,alexis sanchez,danny welbeck,,,2.0,3.0,0,15.0,1.0,1,1.0,0
+IVwp48Un/,IVwp48Un24,24,26,"Corner,  Arsenal. Conceded by Marouane Fellaini.",2,,1,Arsenal,Manchester Utd,marouane fellaini,marouane fellaini,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un25,25,28,Foul by Calum Chambers (Arsenal).,3,,1,Arsenal,Manchester Utd,calum chambers,,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un26,26,28,Ashley Young (Manchester United) wins a free kick in the defensive half.,8,,2,Manchester Utd,Arsenal,ashley young,,,,,,0,2.0,,0,,0
+IVwp48Un/,IVwp48Un27,27,29,Foul by Jack Wilshere (Arsenal).,3,,1,Arsenal,Manchester Utd,jack wilshere,,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un28,28,29,Marouane Fellaini (Manchester United) wins a free kick in the defensive half.,8,,2,Manchester Utd,Arsenal,marouane fellaini,,,,,,0,2.0,,0,,0
+IVwp48Un/,IVwp48Un29,29,34,Attempt saved. Alexis Sanchez (Arsenal) right footed shot from outside the box is saved in the bottom left corner. Assisted by Kieran Gibbs.,1,12.0,1,Arsenal,Manchester Utd,alexis sanchez,kieran gibbs,,,3.0,1.0,0,15.0,1.0,1,1.0,0
+IVwp48Un/,IVwp48Un30,30,34,Foul by Alexis Sanchez (Arsenal).,3,,1,Arsenal,Manchester Utd,alexis sanchez,,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un31,31,34,Patrick McNair (Manchester United) wins a free kick in the defensive half.,8,,2,Manchester Utd,Arsenal,patrick mcnair,,,,,,0,2.0,,0,,0
+IVwp48Un/,IVwp48Un32,32,35,"Attempt missed. Angel Di Maria (Manchester United) left footed shot from the right side of the box is close, but misses to the left. Assisted by Antonio Valencia.",1,12.0,2,Manchester Utd,Arsenal,angel di maria,antonio valencia,,,8.0,2.0,0,11.0,2.0,1,1.0,0
+IVwp48Un/,IVwp48Un33,33,36,Attempt missed. Aaron Ramsey (Arsenal) right footed shot from outside the box is too high. Assisted by Alexis Sanchez.,1,12.0,1,Arsenal,Manchester Utd,aaron ramsey,alexis sanchez,,,10.0,2.0,0,15.0,1.0,1,1.0,0
+IVwp48Un/,IVwp48Un34,34,38,Attempt blocked. Wayne Rooney (Manchester United) right footed shot from the centre of the box is blocked. Assisted by Angel Di Maria.,1,12.0,2,Manchester Utd,Arsenal,wayne rooney,angel di maria,,,2.0,3.0,0,3.0,1.0,1,1.0,0
+IVwp48Un/,IVwp48Un35,35,38,"Corner,  Manchester United. Conceded by Calum Chambers.",2,,2,Manchester Utd,Arsenal,calum chambers,calum chambers,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un36,36,38,Attempt blocked. Wayne Rooney (Manchester United) right footed shot from outside the box is blocked. Assisted by Angel Di Maria.,1,12.0,2,Manchester Utd,Arsenal,wayne rooney,angel di maria,,,2.0,3.0,0,15.0,1.0,1,1.0,0
+IVwp48Un/,IVwp48Un37,37,38,"Corner,  Manchester United. Conceded by Mikel Arteta.",2,,2,Manchester Utd,Arsenal,mikel arteta,mikel arteta,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un38,38,39,"Corner,  Manchester United. Conceded by Calum Chambers.",2,,2,Manchester Utd,Arsenal,calum chambers,calum chambers,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un39,39,40,Attempt blocked. Michael Carrick (Manchester United) header from the right side of the box is blocked. Assisted by Robin van Persie with a cross.,1,12.0,2,Manchester Utd,Arsenal,michael carrick,robin van persie,,,2.0,3.0,0,11.0,3.0,2,1.0,0
+IVwp48Un/,IVwp48Un40,40,40,"Corner,  Manchester United. Conceded by Kieran Gibbs.",2,,2,Manchester Utd,Arsenal,kieran gibbs,kieran gibbs,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un41,41,40,Attempt blocked. Chris Smalling (Manchester United) header from the right side of the six yard box is blocked. Assisted by Robin van Persie with a cross.,1,12.0,2,Manchester Utd,Arsenal,chris smalling,robin van persie,,,2.0,3.0,0,12.0,3.0,2,1.0,0
+IVwp48Un/,IVwp48Un42,42,40,Attempt missed. Chris Smalling (Manchester United) right footed shot from the right side of the six yard box misses to the right following a corner.,1,,2,Manchester Utd,Arsenal,chris smalling,,,,9.0,2.0,0,12.0,1.0,0,3.0,0
+IVwp48Un/,IVwp48Un43,43,42,"Corner,  Arsenal. Conceded by Patrick McNair.",2,,1,Arsenal,Manchester Utd,patrick mcnair,patrick mcnair,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un44,44,43,Attempt missed. Danny Welbeck (Arsenal) right footed shot from the centre of the box misses to the left. Assisted by Aaron Ramsey following a corner.,1,12.0,1,Arsenal,Manchester Utd,danny welbeck,aaron ramsey,,,8.0,2.0,0,3.0,1.0,1,3.0,0
+IVwp48Un/,IVwp48Un45,45,47,"Corner,  Arsenal. Conceded by Marouane Fellaini.",2,,1,Arsenal,Manchester Utd,marouane fellaini,marouane fellaini,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un46,46,48,Attempt blocked. Alex Oxlade-Chamberlain (Arsenal) right footed shot from the centre of the box is blocked.,1,,1,Arsenal,Manchester Utd,alex oxladechamberlain,,,,2.0,3.0,0,3.0,1.0,0,1.0,0
+IVwp48Un/,IVwp48Un47,47,48,"Corner,  Arsenal. Conceded by Michael Carrick.",2,,1,Arsenal,Manchester Utd,michael carrick,michael carrick,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un48,48,48,Attempt missed. Per Mertesacker (Arsenal) right footed shot from the centre of the box is too high. Assisted by Alexis Sanchez with a cross following a corner.,1,12.0,1,Arsenal,Manchester Utd,per mertesacker,alexis sanchez,,,10.0,2.0,0,3.0,1.0,2,3.0,0
+IVwp48Un/,IVwp48Un49,49,49,Attempt saved. Danny Welbeck (Arsenal) right footed shot from a difficult angle on the left is saved in the centre of the goal. Assisted by Alex Oxlade-Chamberlain.,1,12.0,1,Arsenal,Manchester Utd,danny welbeck,alex oxladechamberlain,,,5.0,1.0,0,7.0,1.0,1,1.0,0
+IVwp48Un/,IVwp48Un50,50,49,"Corner,  Arsenal. Conceded by David de Gea.",2,,1,Arsenal,Manchester Utd,david de gea,david de gea,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un51,51,50,Foul by Mikel Arteta (Arsenal).,3,,1,Arsenal,Manchester Utd,mikel arteta,,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un52,52,50,Wayne Rooney (Manchester United) wins a free kick in the defensive half.,8,,2,Manchester Utd,Arsenal,wayne rooney,,,,,,0,2.0,,0,,0
+IVwp48Un/,IVwp48Un53,53,50,"Corner,  Arsenal. Conceded by Chris Smalling.",2,,1,Arsenal,Manchester Utd,chris smalling,chris smalling,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un54,54,55,"Substitution      Substitution, Arsenal. Santiago Cazorla replaces Jack Wilshere because of an injury.",7,,1,Arsenal,Manchester Utd,,,santiago cazorla,jack wilshere,,,0,,,0,,0
+IVwp48Un/,IVwp48Un55,55,55,Attempt missed. Antonio Valencia (Manchester United) right footed shot from the right side of the box misses to the left.,1,,2,Manchester Utd,Arsenal,antonio valencia,,,,8.0,2.0,0,11.0,1.0,0,1.0,0
+IVwp48Un/,IVwp48Un56,56,55,"Goal!        Own Goal by Kieran Gibbs, Arsenal.  Arsenal 0, Manchester United 1.",1,15.0,2,Manchester Utd,Arsenal,kieran gibbs,,,,,,1,19.0,1.0,0,1.0,0
+IVwp48Un/,IVwp48Un57,57,59,"Substitution      Substitution, Arsenal. Damian Martinez replaces Wojciech Szczesny because of an injury.",7,,1,Arsenal,Manchester Utd,,,damian martinez,wojciech szczesny,,,0,,,0,,0
+IVwp48Un/,IVwp48Un58,58,60,"Offside, Manchester United. Angel Di Maria tries a through ball, but Wayne Rooney is caught offside.",9,13.0,2,Manchester Utd,Arsenal,wayne rooney,angel di maria,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un59,59,62,Attempt saved. Alexis Sanchez (Arsenal) header from the centre of the box is saved in the centre of the goal. Assisted by Alex Oxlade-Chamberlain with a cross.,1,12.0,1,Arsenal,Manchester Utd,alexis sanchez,alex oxladechamberlain,,,5.0,1.0,0,3.0,3.0,2,1.0,0
+IVwp48Un/,IVwp48Un60,60,64,Attempt blocked. Aaron Ramsey (Arsenal) right footed shot from outside the box is blocked. Assisted by Calum Chambers.,1,12.0,1,Arsenal,Manchester Utd,aaron ramsey,calum chambers,,,2.0,3.0,0,15.0,1.0,1,1.0,0
+IVwp48Un/,IVwp48Un61,61,64,Foul by Santiago Cazorla (Arsenal).,3,,1,Arsenal,Manchester Utd,santiago cazorla,,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un62,62,64,Ashley Young (Manchester United) wins a free kick in the defensive half.,8,,2,Manchester Utd,Arsenal,ashley young,,,,,,0,2.0,,0,,0
+IVwp48Un/,IVwp48Un63,63,64,Booking      Santiago Cazorla (Arsenal) is shown the yellow card for a bad foul.,4,,1,Arsenal,Manchester Utd,santiago cazorla,,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un64,64,67,"Offside, Manchester United. Robin van Persie tries a through ball, but Angel Di Maria is caught offside.",9,13.0,2,Manchester Utd,Arsenal,angel di maria,robin van persie,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un65,65,68,Attempt saved. Santiago Cazorla (Arsenal) right footed shot from outside the box is saved in the centre of the goal. Assisted by Danny Welbeck with a headed pass.,1,12.0,1,Arsenal,Manchester Utd,santiago cazorla,danny welbeck,,,5.0,1.0,0,15.0,1.0,3,1.0,0
+IVwp48Un/,IVwp48Un66,66,68,Foul by Alexis Sanchez (Arsenal).,3,,1,Arsenal,Manchester Utd,alexis sanchez,,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un67,67,68,Michael Carrick (Manchester United) wins a free kick in the defensive half.,8,,2,Manchester Utd,Arsenal,michael carrick,,,,,,0,2.0,,0,,0
+IVwp48Un/,IVwp48Un68,68,69,"Corner,  Manchester United. Conceded by Calum Chambers.",2,,2,Manchester Utd,Arsenal,calum chambers,calum chambers,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un69,69,69,Attempt missed. Marouane Fellaini (Manchester United) header from the right side of the box misses to the right. Assisted by Wayne Rooney with a cross following a corner.,1,12.0,2,Manchester Utd,Arsenal,marouane fellaini,wayne rooney,,,9.0,2.0,0,11.0,3.0,2,3.0,0
+IVwp48Un/,IVwp48Un70,70,70,"Corner,  Arsenal. Conceded by Antonio Valencia.",2,,1,Arsenal,Manchester Utd,antonio valencia,antonio valencia,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un71,71,71,Aaron Ramsey (Arsenal) wins a free kick in the attacking half.,8,,1,Arsenal,Manchester Utd,aaron ramsey,,,,,,0,1.0,,0,,0
+IVwp48Un/,IVwp48Un72,72,71,Foul by Patrick McNair (Manchester United).,3,,2,Manchester Utd,Arsenal,patrick mcnair,,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un73,73,72,Attempt missed. Alexis Sanchez (Arsenal) right footed shot from outside the box is too high from a direct free kick.,1,,1,Arsenal,Manchester Utd,alexis sanchez,,,,10.0,2.0,0,15.0,1.0,0,4.0,0
+IVwp48Un/,IVwp48Un74,74,74,"Substitution      Substitution, Manchester United. James Wilson replaces Robin van Persie.",7,,2,Manchester Utd,Arsenal,,,james wilson,robin van persie,,,0,,,0,,0
+IVwp48Un/,IVwp48Un75,75,76,"Substitution      Substitution, Arsenal. Olivier Giroud replaces Aaron Ramsey.",7,,1,Arsenal,Manchester Utd,,,olivier giroud,aaron ramsey,,,0,,,0,,0
+IVwp48Un/,IVwp48Un76,76,77,"Corner,  Arsenal. Conceded by Chris Smalling.",2,,1,Arsenal,Manchester Utd,chris smalling,chris smalling,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un77,77,77,Attempt missed. Olivier Giroud (Arsenal) header from the centre of the box is too high. Assisted by Alexis Sanchez with a cross following a corner.,1,12.0,1,Arsenal,Manchester Utd,olivier giroud,alexis sanchez,,,10.0,2.0,0,3.0,3.0,2,3.0,0
+IVwp48Un/,IVwp48Un78,78,78,Mikel Arteta (Arsenal) wins a free kick in the attacking half.,8,,1,Arsenal,Manchester Utd,mikel arteta,,,,,,0,1.0,,0,,0
+IVwp48Un/,IVwp48Un79,79,78,Foul by Marouane Fellaini (Manchester United).,3,,2,Manchester Utd,Arsenal,marouane fellaini,,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un80,80,79,Attempt blocked. Kieran Gibbs (Arsenal) left footed shot from the left side of the box is blocked. Assisted by Alexis Sanchez.,1,12.0,1,Arsenal,Manchester Utd,kieran gibbs,alexis sanchez,,,2.0,3.0,0,9.0,2.0,1,1.0,0
+IVwp48Un/,IVwp48Un81,81,79,Attempt blocked. Santiago Cazorla (Arsenal) right footed shot from the left side of the box is blocked. Assisted by Alexis Sanchez.,1,12.0,1,Arsenal,Manchester Utd,santiago cazorla,alexis sanchez,,,2.0,3.0,0,9.0,1.0,1,1.0,0
+IVwp48Un/,IVwp48Un82,82,81,Foul by Mikel Arteta (Arsenal).,3,,1,Arsenal,Manchester Utd,mikel arteta,,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un83,83,81,Angel Di Maria (Manchester United) wins a free kick in the defensive half.,8,,2,Manchester Utd,Arsenal,angel di maria,,,,,,0,2.0,,0,,0
+IVwp48Un/,IVwp48Un84,84,82,Alexis Sanchez (Arsenal) wins a free kick in the defensive half.,8,,1,Arsenal,Manchester Utd,alexis sanchez,,,,,,0,2.0,,0,,0
+IVwp48Un/,IVwp48Un85,85,82,Foul by Wayne Rooney (Manchester United).,3,,2,Manchester Utd,Arsenal,wayne rooney,,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un86,86,84,"Goal!        Goal!  Arsenal 0, Manchester United 2. Wayne Rooney (Manchester United) left footed shot from the centre of the box to the bottom right corner. Assisted by Angel Di Maria following a fast break.",1,12.0,2,Manchester Utd,Arsenal,wayne rooney,angel di maria,,,4.0,1.0,1,3.0,2.0,1,1.0,1
+IVwp48Un/,IVwp48Un87,87,88,"Offside, Arsenal. Olivier Giroud tries a through ball, but Danny Welbeck is caught offside.",9,13.0,1,Arsenal,Manchester Utd,danny welbeck,olivier giroud,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un88,88,89,"Substitution      Substitution, Manchester United. Darren Fletcher replaces Ashley Young.",7,,2,Manchester Utd,Arsenal,,,darren fletcher,ashley young,,,0,,,0,,0
+IVwp48Un/,IVwp48Un89,89,89,Foul by Mikel Arteta (Arsenal).,3,,1,Arsenal,Manchester Utd,mikel arteta,,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un90,90,89,James Wilson (Manchester United) wins a free kick in the attacking half.,8,,2,Manchester Utd,Arsenal,james wilson,,,,,,0,1.0,,0,,0
+IVwp48Un/,IVwp48Un91,91,90,"Offside, Manchester United. Patrick McNair tries a through ball, but Angel Di Maria is caught offside.",9,13.0,2,Manchester Utd,Arsenal,angel di maria,patrick mcnair,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un92,92,90,Alexis Sanchez (Arsenal) wins a free kick on the left wing.,8,,1,Arsenal,Manchester Utd,alexis sanchez,,,,,,0,4.0,,0,,0
+IVwp48Un/,IVwp48Un93,93,90,Foul by Antonio Valencia (Manchester United).,3,,2,Manchester Utd,Arsenal,antonio valencia,,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un94,94,93,"Corner,  Arsenal. Conceded by Michael Carrick.",2,,1,Arsenal,Manchester Utd,michael carrick,michael carrick,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un95,95,93,"Attempt missed. Angel Di Maria (Manchester United) left footed shot from the centre of the box is close, but misses to the right. Assisted by Wayne Rooney with a through ball following a fast break.",1,12.0,2,Manchester Utd,Arsenal,angel di maria,wayne rooney,,,9.0,2.0,0,3.0,2.0,4,1.0,1
+IVwp48Un/,IVwp48Un96,96,94,Mikel Arteta (Arsenal) wins a free kick in the defensive half.,8,,1,Arsenal,Manchester Utd,mikel arteta,,,,,,0,2.0,,0,,0
+IVwp48Un/,IVwp48Un97,97,94,Foul by Marouane Fellaini (Manchester United).,3,,2,Manchester Utd,Arsenal,marouane fellaini,,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un98,98,95,"Goal!        Goal!  Arsenal 1, Manchester United 2. Olivier Giroud (Arsenal) left footed shot from the left side of the box to the top left corner. Assisted by Mikel Arteta.",1,12.0,1,Arsenal,Manchester Utd,olivier giroud,mikel arteta,,,12.0,1.0,1,9.0,2.0,1,1.0,0
+IVwp48Un/,IVwp48Un99,99,97,Booking      James Wilson (Manchester United) is shown the yellow card.,4,,2,Manchester Utd,Arsenal,james wilson,,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un100,100,98,Booking      Olivier Giroud (Arsenal) is shown the yellow card.,4,,1,Arsenal,Manchester Utd,olivier giroud,,,,,,0,,,0,,0
+IVwp48Un/,IVwp48Un101,101,98,Attempt saved. Marouane Fellaini (Manchester United) right footed shot from outside the box is saved in the bottom right corner. Assisted by Wayne Rooney.,1,12.0,2,Manchester Utd,Arsenal,marouane fellaini,wayne rooney,,,4.0,1.0,0,15.0,1.0,1,1.0,0
+IVwp48Un/,IVwp48Un102,102,99,Attempt blocked. Santiago Cazorla (Arsenal) right footed shot from outside the box is blocked. Assisted by Alex Oxlade-Chamberlain.,1,12.0,1,Arsenal,Manchester Utd,santiago cazorla,alex oxladechamberlain,,,2.0,3.0,0,15.0,1.0,1,1.0,0
+C4wa435Q/,C4wa435Q1,1,1,"Corner,  Queens Park Rangers. Conceded by Gareth McAuley.",2,,2,QPR,West Brom,gareth mcauley,gareth mcauley,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q2,2,2,Attempt missed. Brown Ideye (West Bromwich Albion) header from the centre of the box misses to the right. Assisted by Chris Brunt with a cross.,1,12.0,1,West Brom,QPR,brown ideye,chris brunt,,,9.0,2.0,0,3.0,3.0,2,1.0,0
+C4wa435Q/,C4wa435Q3,3,3,"Offside, Queens Park Rangers. Mauricio Isla tries a through ball, but Bobby Zamora is caught offside.",9,13.0,2,QPR,West Brom,bobby zamora,mauricio isla,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q4,4,4,Charlie Austin (Queens Park Rangers) wins a free kick in the attacking half.,8,,2,QPR,West Brom,charlie austin,,,,,,0,1.0,,0,,0
+C4wa435Q/,C4wa435Q5,5,4,Foul by Craig Gardner (West Bromwich Albion).,3,,1,West Brom,QPR,craig gardner,,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q6,6,4,Attempt saved. Matthew Phillips (Queens Park Rangers) right footed shot from outside the box is saved in the top centre of the goal.,1,,2,QPR,West Brom,matthew phillips,,,,11.0,1.0,0,15.0,1.0,0,1.0,0
+C4wa435Q/,C4wa435Q7,7,5,"Offside, West Bromwich Albion. Gareth McAuley tries a through ball, but Brown Ideye is caught offside.",9,13.0,1,West Brom,QPR,brown ideye,gareth mcauley,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q8,8,8,Foul by Eduardo Vargas (Queens Park Rangers).,3,,2,QPR,West Brom,eduardo vargas,,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q9,9,8,Saido Berahino (West Bromwich Albion) wins a free kick in the attacking half.,8,,1,West Brom,QPR,saido berahino,,,,,,0,1.0,,0,,0
+C4wa435Q/,C4wa435Q10,10,10,Attempt missed. James Morrison (West Bromwich Albion) right footed shot from outside the box is high and wide to the right. Assisted by Saido Berahino.,1,12.0,1,West Brom,QPR,james morrison,saido berahino,,,6.0,2.0,0,15.0,1.0,1,1.0,0
+C4wa435Q/,C4wa435Q11,11,13,Attempt missed. Brown Ideye (West Bromwich Albion) header from the centre of the box is too high. Assisted by Darren Fletcher with a cross.,1,12.0,1,West Brom,QPR,brown ideye,darren fletcher,,,10.0,2.0,0,3.0,3.0,2,1.0,0
+C4wa435Q/,C4wa435Q12,12,14,"Goal!        Goal!  West Bromwich Albion 0, Queens Park Rangers 1. Eduardo Vargas (Queens Park Rangers) right footed shot from outside the box to the bottom left corner. Assisted by Charlie Austin with a headed pass.",1,12.0,2,QPR,West Brom,eduardo vargas,charlie austin,,,3.0,1.0,1,15.0,1.0,3,1.0,0
+C4wa435Q/,C4wa435Q13,13,18,"Attempt missed. Brown Ideye (West Bromwich Albion) left footed shot from the centre of the box is close, but misses to the right. Assisted by Chris Baird with a cross.",1,12.0,1,West Brom,QPR,brown ideye,chris baird,,,9.0,2.0,0,3.0,2.0,2,1.0,0
+C4wa435Q/,C4wa435Q14,14,19,Attempt missed. Matthew Phillips (Queens Park Rangers) left footed shot from outside the box misses to the right. Assisted by Eduardo Vargas.,1,12.0,2,QPR,West Brom,matthew phillips,eduardo vargas,,,9.0,2.0,0,15.0,2.0,1,1.0,0
+C4wa435Q/,C4wa435Q15,15,22,Foul by Steven Caulker (Queens Park Rangers).,3,,2,QPR,West Brom,steven caulker,,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q16,16,22,Craig Gardner (West Bromwich Albion) wins a free kick in the attacking half.,8,,1,West Brom,QPR,craig gardner,,,,,,0,1.0,,0,,0
+C4wa435Q/,C4wa435Q17,17,22,Booking      Steven Caulker (Queens Park Rangers) is shown the yellow card for a bad foul.,4,,2,QPR,West Brom,steven caulker,,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q18,18,24,Attempt missed. Craig Gardner (West Bromwich Albion) right footed shot from outside the box misses to the left. Assisted by Darren Fletcher following a set piece situation.,1,12.0,1,West Brom,QPR,craig gardner,darren fletcher,,,8.0,2.0,0,15.0,1.0,1,2.0,0
+C4wa435Q/,C4wa435Q19,19,25,Attempt blocked. Brown Ideye (West Bromwich Albion) right footed shot from the right side of the box is blocked. Assisted by Craig Gardner with a cross.,1,12.0,1,West Brom,QPR,brown ideye,craig gardner,,,2.0,3.0,0,11.0,1.0,2,1.0,0
+C4wa435Q/,C4wa435Q20,20,27,"Offside, West Bromwich Albion. Saido Berahino tries a through ball, but Craig Gardner is caught offside.",9,13.0,1,West Brom,QPR,craig gardner,saido berahino,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q21,21,29,Stephane Sessegnon (West Bromwich Albion) wins a free kick in the defensive half.,8,,1,West Brom,QPR,stephane sessegnon,,,,,,0,2.0,,0,,0
+C4wa435Q/,C4wa435Q22,22,29,Foul by Bobby Zamora (Queens Park Rangers).,3,,2,QPR,West Brom,bobby zamora,,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q23,23,30,"Substitution      Substitution, Queens Park Rangers. Niko Kranjcar replaces Eduardo Vargas because of an injury.",7,,2,QPR,West Brom,,,niko kranjcar,eduardo vargas,,,0,,,0,,0
+C4wa435Q/,C4wa435Q24,24,33,Brown Ideye (West Bromwich Albion) wins a free kick in the attacking half.,8,,1,West Brom,QPR,brown ideye,,,,,,0,1.0,,0,,0
+C4wa435Q/,C4wa435Q25,25,33,Foul by Nedum Onuoha (Queens Park Rangers).,3,,2,QPR,West Brom,nedum onuoha,,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q26,26,35,Stephane Sessegnon (West Bromwich Albion) wins a free kick on the left wing.,8,,1,West Brom,QPR,stephane sessegnon,,,,,,0,4.0,,0,,0
+C4wa435Q/,C4wa435Q27,27,35,Foul by Matthew Phillips (Queens Park Rangers).,3,,2,QPR,West Brom,matthew phillips,,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q28,28,36,"Corner,  Queens Park Rangers. Conceded by James Morrison.",2,,2,QPR,West Brom,james morrison,james morrison,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q29,29,36,Attempt missed. Niko Kranjcar (Queens Park Rangers) header from the centre of the box misses to the left. Assisted by Matthew Phillips with a cross following a corner.,1,12.0,2,QPR,West Brom,niko kranjcar,matthew phillips,,,8.0,2.0,0,3.0,3.0,2,3.0,0
+C4wa435Q/,C4wa435Q30,30,36,"Goal!        Goal!  West Bromwich Albion 0, Queens Park Rangers 2. Charlie Austin (Queens Park Rangers) header from the left side of the six yard box to the bottom left corner. Assisted by Niko Kranjcar following a corner.",1,12.0,2,QPR,West Brom,charlie austin,niko kranjcar,,,3.0,1.0,1,10.0,3.0,1,3.0,0
+C4wa435Q/,C4wa435Q31,31,38,Attempt saved. Brown Ideye (West Bromwich Albion) right footed shot from the centre of the box is saved in the centre of the goal. Assisted by Chris Brunt.,1,12.0,1,West Brom,QPR,brown ideye,chris brunt,,,5.0,1.0,0,3.0,1.0,1,1.0,0
+C4wa435Q/,C4wa435Q32,32,38,Attempt missed. Chris Brunt (West Bromwich Albion) right footed shot from outside the box misses to the left.,1,,1,West Brom,QPR,chris brunt,,,,8.0,2.0,0,15.0,1.0,0,1.0,0
+C4wa435Q/,C4wa435Q33,33,42,"Goal!        Goal!  West Bromwich Albion 0, Queens Park Rangers 3. Bobby Zamora (Queens Park Rangers) left footed shot from the right side of the box to the bottom left corner. Assisted by Matthew Phillips.",1,12.0,2,QPR,West Brom,bobby zamora,matthew phillips,,,3.0,1.0,1,11.0,2.0,1,1.0,0
+C4wa435Q/,C4wa435Q34,34,44,"Corner,  West Bromwich Albion. Conceded by Joey Barton.",2,,1,West Brom,QPR,joey barton,joey barton,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q35,35,44,"Attempt missed. Gareth McAuley (West Bromwich Albion) header from the centre of the box is close, but misses to the right. Assisted by Craig Gardner with a cross following a corner.",1,12.0,1,West Brom,QPR,gareth mcauley,craig gardner,,,9.0,2.0,0,3.0,3.0,2,3.0,0
+C4wa435Q/,C4wa435Q36,36,45,"Substitution      Substitution, West Bromwich Albion. Victor Anichebe replaces Stephane Sessegnon.",7,,1,West Brom,QPR,,,victor anichebe,stephane sessegnon,,,0,,,0,,0
+C4wa435Q/,C4wa435Q37,37,45,"Offside, West Bromwich Albion. Boaz Myhill tries a through ball, but Brown Ideye is caught offside.",9,13.0,1,West Brom,QPR,brown ideye,boaz myhill,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q38,38,45,Attempt blocked. Bobby Zamora (Queens Park Rangers) left footed shot from outside the box is blocked.,1,,2,QPR,West Brom,bobby zamora,,,,2.0,3.0,0,15.0,2.0,0,1.0,0
+C4wa435Q/,C4wa435Q39,39,46,Foul by Stephane Sessegnon (West Bromwich Albion).,3,,1,West Brom,QPR,stephane sessegnon,,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q40,40,46,Joey Barton (Queens Park Rangers) wins a free kick in the defensive half.,8,,2,QPR,West Brom,joey barton,,,,,,0,2.0,,0,,0
+C4wa435Q/,C4wa435Q41,41,47,Booking      Stephane Sessegnon (West Bromwich Albion) is shown the yellow card for a bad foul.,4,,1,West Brom,QPR,stephane sessegnon,,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q42,42,49,Foul by Chris Baird (West Bromwich Albion).,3,,1,West Brom,QPR,chris baird,,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q43,43,49,Charlie Austin (Queens Park Rangers) wins a free kick on the left wing.,8,,2,QPR,West Brom,charlie austin,,,,,,0,4.0,,0,,0
+C4wa435Q/,C4wa435Q44,44,49,Attempt blocked. Brown Ideye (West Bromwich Albion) right footed shot from the left side of the box is blocked. Assisted by James Morrison.,1,12.0,1,West Brom,QPR,brown ideye,james morrison,,,2.0,3.0,0,9.0,1.0,1,1.0,0
+C4wa435Q/,C4wa435Q45,45,49,"Corner,  West Bromwich Albion. Conceded by Nedum Onuoha.",2,,1,West Brom,QPR,nedum onuoha,nedum onuoha,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q46,46,54,Attempt saved. Craig Gardner (West Bromwich Albion) right footed shot from outside the box is saved in the centre of the goal. Assisted by Victor Anichebe.,1,12.0,1,West Brom,QPR,craig gardner,victor anichebe,,,5.0,1.0,0,15.0,1.0,1,1.0,0
+C4wa435Q/,C4wa435Q47,47,55,Attempt saved. Charlie Austin (Queens Park Rangers) right footed shot from the centre of the box is saved in the centre of the goal. Assisted by Bobby Zamora with a cross.,1,12.0,2,QPR,West Brom,charlie austin,bobby zamora,,,5.0,1.0,0,3.0,1.0,2,1.0,0
+C4wa435Q/,C4wa435Q48,48,58,"Goal!        Goal!  West Bromwich Albion 1, Queens Park Rangers 3. Victor Anichebe (West Bromwich Albion) header from the centre of the box to the bottom right corner. Assisted by Saido Berahino with a cross.",1,12.0,1,West Brom,QPR,victor anichebe,saido berahino,,,4.0,1.0,1,3.0,3.0,2,1.0,0
+C4wa435Q/,C4wa435Q49,49,59,Victor Anichebe (West Bromwich Albion) wins a free kick in the attacking half.,8,,1,West Brom,QPR,victor anichebe,,,,,,0,1.0,,0,,0
+C4wa435Q/,C4wa435Q50,50,59,Foul by Nedum Onuoha (Queens Park Rangers).,3,,2,QPR,West Brom,nedum onuoha,,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q51,51,60,Joleon Lescott (West Bromwich Albion) wins a free kick in the defensive half.,8,,1,West Brom,QPR,joleon lescott,,,,,,0,2.0,,0,,0
+C4wa435Q/,C4wa435Q52,52,60,Foul by Charlie Austin (Queens Park Rangers).,3,,2,QPR,West Brom,charlie austin,,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q53,53,62,Attempt saved. Brown Ideye (West Bromwich Albion) left footed shot from the centre of the box is saved in the top centre of the goal. Assisted by Victor Anichebe with a headed pass.,1,12.0,1,West Brom,QPR,brown ideye,victor anichebe,,,11.0,1.0,0,3.0,2.0,3,1.0,0
+C4wa435Q/,C4wa435Q54,54,62,Foul by Craig Gardner (West Bromwich Albion).,3,,1,West Brom,QPR,craig gardner,,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q55,55,62,Yun Suk-Young (Queens Park Rangers) wins a free kick in the defensive half.,8,,2,QPR,West Brom,yun sukyoung,,,,,,0,2.0,,0,,0
+C4wa435Q/,C4wa435Q56,56,65,"Substitution      Substitution, West Bromwich Albion. Jonas Olsson replaces Chris Baird.",7,,1,West Brom,QPR,,,jonas olsson,chris baird,,,0,,,0,,0
+C4wa435Q/,C4wa435Q57,57,65,Jonas Olsson (West Bromwich Albion) wins a free kick in the defensive half.,8,,1,West Brom,QPR,jonas olsson,,,,,,0,2.0,,0,,0
+C4wa435Q/,C4wa435Q58,58,65,Foul by Bobby Zamora (Queens Park Rangers).,3,,2,QPR,West Brom,bobby zamora,,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q59,59,67,Attempt missed. James Morrison (West Bromwich Albion) right footed shot from outside the box is too high.,1,,1,West Brom,QPR,james morrison,,,,10.0,2.0,0,15.0,1.0,0,1.0,0
+C4wa435Q/,C4wa435Q60,60,69,"Offside, Queens Park Rangers. Joey Barton tries a through ball, but Charlie Austin is caught offside.",9,13.0,2,QPR,West Brom,charlie austin,joey barton,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q61,61,69,Attempt saved. Brown Ideye (West Bromwich Albion) right footed shot from outside the box is saved in the top centre of the goal.,1,,1,West Brom,QPR,brown ideye,,,,11.0,1.0,0,15.0,1.0,0,1.0,0
+C4wa435Q/,C4wa435Q62,62,71,Attempt saved. Niko Kranjcar (Queens Park Rangers) left footed shot from the left side of the box is saved in the centre of the goal. Assisted by Matthew Phillips.,1,12.0,2,QPR,West Brom,niko kranjcar,matthew phillips,,,5.0,1.0,0,9.0,2.0,1,1.0,0
+C4wa435Q/,C4wa435Q63,63,71,Victor Anichebe (West Bromwich Albion) wins a free kick in the attacking half.,8,,1,West Brom,QPR,victor anichebe,,,,,,0,1.0,,0,,0
+C4wa435Q/,C4wa435Q64,64,71,Foul by Joey Barton (Queens Park Rangers).,3,,2,QPR,West Brom,joey barton,,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q65,65,71,"Substitution      Substitution, West Bromwich Albion. Youssuf Mulumbu replaces Craig Gardner.",7,,1,West Brom,QPR,,,youssuf mulumbu,craig gardner,,,0,,,0,,0
+C4wa435Q/,C4wa435Q66,66,73,Attempt blocked. Victor Anichebe (West Bromwich Albion) right footed shot from the right side of the box is blocked. Assisted by Youssuf Mulumbu.,1,12.0,1,West Brom,QPR,victor anichebe,youssuf mulumbu,,,2.0,3.0,0,11.0,1.0,1,1.0,0
+C4wa435Q/,C4wa435Q67,67,74,Booking      Joey Barton (Queens Park Rangers) is shown the yellow card.,4,,2,QPR,West Brom,joey barton,,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q68,68,75,"Substitution      Substitution, Queens Park Rangers. Karl Henry replaces Bobby Zamora.",7,,2,QPR,West Brom,,,karl henry,bobby zamora,,,0,,,0,,0
+C4wa435Q/,C4wa435Q69,69,76,"Offside, Queens Park Rangers. Yun Suk-Young tries a through ball, but Charlie Austin is caught offside.",9,13.0,2,QPR,West Brom,charlie austin,yun sukyoung,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q70,70,77,Attempt blocked. Darren Fletcher (West Bromwich Albion) right footed shot from outside the box is blocked. Assisted by Victor Anichebe.,1,12.0,1,West Brom,QPR,darren fletcher,victor anichebe,,,2.0,3.0,0,15.0,1.0,1,1.0,0
+C4wa435Q/,C4wa435Q71,71,77,"Attempt missed. Saido Berahino (West Bromwich Albion) left footed shot from the centre of the box is close, but misses to the left.",1,,1,West Brom,QPR,saido berahino,,,,8.0,2.0,0,3.0,2.0,0,1.0,0
+C4wa435Q/,C4wa435Q72,72,78,Attempt saved. Saido Berahino (West Bromwich Albion) right footed shot from very close range is saved in the centre of the goal. Assisted by Brown Ideye with a headed pass.,1,12.0,1,West Brom,QPR,saido berahino,brown ideye,,,5.0,1.0,0,13.0,1.0,3,1.0,0
+C4wa435Q/,C4wa435Q73,73,79,Attempt missed. Brown Ideye (West Bromwich Albion) header from very close range is just a bit too high. Assisted by Chris Brunt with a cross.,1,12.0,1,West Brom,QPR,brown ideye,chris brunt,,,1.0,2.0,0,13.0,3.0,2,1.0,0
+C4wa435Q/,C4wa435Q74,74,81,"Corner,  Queens Park Rangers. Conceded by Youssuf Mulumbu.",2,,2,QPR,West Brom,youssuf mulumbu,youssuf mulumbu,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q75,75,82,"Substitution      Substitution, Queens Park Rangers. Clint Hill replaces Yun Suk-Young.",7,,2,QPR,West Brom,,,clint hill,yun sukyoung,,,0,,,0,,0
+C4wa435Q/,C4wa435Q76,76,82,Gareth McAuley (West Bromwich Albion) wins a free kick in the defensive half.,8,,1,West Brom,QPR,gareth mcauley,,,,,,0,2.0,,0,,0
+C4wa435Q/,C4wa435Q77,77,82,Foul by Sandro (Queens Park Rangers).,3,,2,QPR,West Brom,sandro,,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q78,78,83,Foul by Youssuf Mulumbu (West Bromwich Albion).,3,,1,West Brom,QPR,youssuf mulumbu,,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q79,79,83,Joey Barton (Queens Park Rangers) wins a free kick in the defensive half.,8,,2,QPR,West Brom,joey barton,,,,,,0,2.0,,0,,0
+C4wa435Q/,C4wa435Q80,80,83,Dismissal      Youssuf Mulumbu (West Bromwich Albion) is shown the red card for fighting.,6,14.0,1,West Brom,QPR,youssuf mulumbu,,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q81,81,85,Victor Anichebe (West Bromwich Albion) wins a free kick in the attacking half.,8,,1,West Brom,QPR,victor anichebe,,,,,,0,1.0,,0,,0
+C4wa435Q/,C4wa435Q82,82,85,Foul by Sandro (Queens Park Rangers).,3,,2,QPR,West Brom,sandro,,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q83,83,88,Saido Berahino (West Bromwich Albion) wins a free kick in the attacking half.,8,,1,West Brom,QPR,saido berahino,,,,,,0,1.0,,0,,0
+C4wa435Q/,C4wa435Q84,84,88,Foul by Steven Caulker (Queens Park Rangers).,3,,2,QPR,West Brom,steven caulker,,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q85,85,88,Gareth McAuley (West Bromwich Albion) wins a free kick in the attacking half.,8,,1,West Brom,QPR,gareth mcauley,,,,,,0,1.0,,0,,0
+C4wa435Q/,C4wa435Q86,86,88,Foul by Niko Kranjcar (Queens Park Rangers).,3,,2,QPR,West Brom,niko kranjcar,,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q87,87,89,"Attempt missed. Saido Berahino (West Bromwich Albion) right footed shot from outside the box is close, but misses the top right corner from a direct free kick.",1,,1,West Brom,QPR,saido berahino,,,,13.0,2.0,0,15.0,1.0,0,4.0,0
+C4wa435Q/,C4wa435Q88,88,91,Attempt blocked. Karl Henry (Queens Park Rangers) right footed shot from outside the box is blocked. Assisted by Matthew Phillips.,1,12.0,2,QPR,West Brom,karl henry,matthew phillips,,,2.0,3.0,0,15.0,1.0,1,1.0,0
+C4wa435Q/,C4wa435Q89,89,93,Attempt blocked. Niko Kranjcar (Queens Park Rangers) left footed shot from outside the box is blocked.,1,,2,QPR,West Brom,niko kranjcar,,,,2.0,3.0,0,15.0,2.0,0,1.0,0
+C4wa435Q/,C4wa435Q90,90,93,"Corner,  Queens Park Rangers. Conceded by Joleon Lescott.",2,,2,QPR,West Brom,joleon lescott,joleon lescott,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q91,91,94,James Morrison (West Bromwich Albion) wins a free kick in the defensive half.,8,,1,West Brom,QPR,james morrison,,,,,,0,2.0,,0,,0
+C4wa435Q/,C4wa435Q92,92,94,Foul by Karl Henry (Queens Park Rangers).,3,,2,QPR,West Brom,karl henry,,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q93,93,94,Booking      Karl Henry (Queens Park Rangers) is shown the yellow card for a bad foul.,4,,2,QPR,West Brom,karl henry,,,,,,0,,,0,,0
+C4wa435Q/,C4wa435Q94,94,95,"Goal!        Goal!  West Bromwich Albion 1, Queens Park Rangers 4. Joey Barton (Queens Park Rangers) left footed shot from the centre of the box to the bottom left corner. Assisted by Charlie Austin.",1,12.0,2,QPR,West Brom,joey barton,charlie austin,,,3.0,1.0,1,3.0,2.0,1,1.0,0
+C4wa435Q/,C4wa435Q95,95,96,Booking      Chris Brunt (West Bromwich Albion) is shown the yellow card.,4,,1,West Brom,QPR,chris brunt,,,,,,0,,,0,,0
+MX94dI81/,MX94dI811,1,5,Santiago Garcia (SV Werder Bremen) wins a free kick in the defensive half.,8,,1,Werder Bremen,Hertha Berlin,santiago garcia,,,,,,0,2.0,,0,,0
+MX94dI81/,MX94dI812,2,5,Attempt blocked. Vedad Ibisevic (Hertha Berlin) right footed shot from the right side of the box is blocked. Assisted by Fabian Lustenberger.,1,12.0,2,Hertha Berlin,Werder Bremen,vedad ibisevic,fabian lustenberger,,,2.0,3.0,0,11.0,1.0,1,1.0,0
+MX94dI81/,MX94dI813,3,5,Foul by Mitchell Weiser (Hertha Berlin).,3,,2,Hertha Berlin,Werder Bremen,mitchell weiser,,,,,,0,,,0,,0
+MX94dI81/,MX94dI814,4,6,"Offside, SV Werder Bremen. Papy Djilobodji tries a through ball, but Claudio Pizarro is caught offside.",9,13.0,1,Werder Bremen,Hertha Berlin,claudio pizarro,papy djilobodji,,,,,0,,,0,,0
+MX94dI81/,MX94dI815,5,8,Zlatko Junuzovic (SV Werder Bremen) wins a free kick in the defensive half.,8,,1,Werder Bremen,Hertha Berlin,zlatko junuzovic,,,,,,0,2.0,,0,,0
+MX94dI81/,MX94dI816,6,8,"Corner,  Hertha Berlin. Conceded by Santiago Garcia.",2,,2,Hertha Berlin,Werder Bremen,santiago garcia,santiago garcia,,,,,0,,,0,,0
+MX94dI81/,MX94dI817,7,8,Foul by Genki Haraguchi (Hertha Berlin).,3,,2,Hertha Berlin,Werder Bremen,genki haraguchi,,,,,,0,,,0,,0
+MX94dI81/,MX94dI818,8,9,Genki Haraguchi (Hertha Berlin) is shown the yellow card for a bad foul.,4,,2,Hertha Berlin,Werder Bremen,genki haraguchi,,,,,,0,,,0,,0
+MX94dI81/,MX94dI819,9,12,Zlatko Junuzovic (SV Werder Bremen) wins a free kick in the defensive half.,8,,1,Werder Bremen,Hertha Berlin,zlatko junuzovic,,,,,,0,2.0,,0,,0
+MX94dI81/,MX94dI8110,10,12,Foul by Salomon Kalou (Hertha Berlin).,3,,2,Hertha Berlin,Werder Bremen,salomon kalou,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8111,11,13,Attempt blocked. Florian Grillitsch (SV Werder Bremen) left footed shot from the centre of the box is blocked. Assisted by Claudio Pizarro.,1,12.0,1,Werder Bremen,Hertha Berlin,florian grillitsch,claudio pizarro,,,2.0,3.0,0,3.0,2.0,1,1.0,0
+MX94dI81/,MX94dI8112,12,13,"Corner,  SV Werder Bremen. Conceded by Mitchell Weiser.",2,,1,Werder Bremen,Hertha Berlin,mitchell weiser,mitchell weiser,,,,,0,,,0,,0
+MX94dI81/,MX94dI8113,13,14,Attempt missed. Claudio Pizarro (SV Werder Bremen) left footed shot from the centre of the box misses to the right. Assisted by Santiago Garcia with a headed pass following a corner.,1,12.0,1,Werder Bremen,Hertha Berlin,claudio pizarro,santiago garcia,,,9.0,2.0,0,3.0,2.0,3,3.0,0
+MX94dI81/,MX94dI8114,14,14,Foul by Jannik Vestergaard (SV Werder Bremen).,3,,1,Werder Bremen,Hertha Berlin,jannik vestergaard,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8115,15,14,Vedad Ibisevic (Hertha Berlin) wins a free kick in the defensive half.,8,,2,Hertha Berlin,Werder Bremen,vedad ibisevic,,,,,,0,2.0,,0,,0
+MX94dI81/,MX94dI8116,16,18,Zlatko Junuzovic (SV Werder Bremen) wins a free kick on the left wing.,8,,1,Werder Bremen,Hertha Berlin,zlatko junuzovic,,,,,,0,4.0,,0,,0
+MX94dI81/,MX94dI8117,17,18,Foul by Mitchell Weiser (Hertha Berlin).,3,,2,Hertha Berlin,Werder Bremen,mitchell weiser,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8118,18,20,Attempt saved. Florian Grillitsch (SV Werder Bremen) right footed shot from a difficult angle on the right is saved in the centre of the goal. Assisted by Levin Oztunali.,1,12.0,1,Werder Bremen,Hertha Berlin,florian grillitsch,levin oztunali,,,5.0,1.0,0,8.0,1.0,1,1.0,0
+MX94dI81/,MX94dI8119,19,20,"Corner,  SV Werder Bremen. Conceded by Mitchell Weiser.",2,,1,Werder Bremen,Hertha Berlin,mitchell weiser,mitchell weiser,,,,,0,,,0,,0
+MX94dI81/,MX94dI8120,20,21,Attempt blocked. Levin Oztunali (SV Werder Bremen) left footed shot from outside the box is blocked.,1,,1,Werder Bremen,Hertha Berlin,levin oztunali,,,,2.0,3.0,0,15.0,2.0,0,1.0,0
+MX94dI81/,MX94dI8121,21,21,Attempt missed. Levin Oztunali (SV Werder Bremen) right footed shot from outside the box misses to the right following a corner.,1,,1,Werder Bremen,Hertha Berlin,levin oztunali,,,,9.0,2.0,0,15.0,1.0,0,3.0,0
+MX94dI81/,MX94dI8122,22,22,Clemens Fritz (SV Werder Bremen) wins a free kick in the defensive half.,8,,1,Werder Bremen,Hertha Berlin,clemens fritz,,,,,,0,2.0,,0,,0
+MX94dI81/,MX94dI8123,23,22,Foul by Per Skjelbred (Hertha Berlin).,3,,2,Hertha Berlin,Werder Bremen,per skjelbred,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8124,24,25,Foul by Santiago Garcia (SV Werder Bremen).,3,,1,Werder Bremen,Hertha Berlin,santiago garcia,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8125,25,25,Genki Haraguchi (Hertha Berlin) wins a free kick in the defensive half.,8,,2,Hertha Berlin,Werder Bremen,genki haraguchi,,,,,,0,2.0,,0,,0
+MX94dI81/,MX94dI8126,26,26,Attempt missed. Anthony Ujah (SV Werder Bremen) header from outside the box misses to the right. Assisted by Theodor Gebre Selassie.,1,12.0,1,Werder Bremen,Hertha Berlin,anthony ujah,theodor gebre selassie,,,9.0,2.0,0,15.0,3.0,1,1.0,0
+MX94dI81/,MX94dI8127,27,27,Foul by Clemens Fritz (SV Werder Bremen).,3,,1,Werder Bremen,Hertha Berlin,clemens fritz,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8128,28,27,John Brooks (Hertha Berlin) wins a free kick in the defensive half.,8,,2,Hertha Berlin,Werder Bremen,john brooks,,,,,,0,2.0,,0,,0
+MX94dI81/,MX94dI8129,29,27,"Corner,  Hertha Berlin. Conceded by Papy Djilobodji.",2,,2,Hertha Berlin,Werder Bremen,papy djilobodji,papy djilobodji,,,,,0,,,0,,0
+MX94dI81/,MX94dI8130,30,28,Attempt blocked. Salomon Kalou (Hertha Berlin) header from the left side of the six yard box is blocked. Assisted by Marvin Plattenhardt with a cross.,1,12.0,2,Hertha Berlin,Werder Bremen,salomon kalou,marvin plattenhardt,,,2.0,3.0,0,10.0,3.0,2,1.0,0
+MX94dI81/,MX94dI8131,31,28,"Corner,  Hertha Berlin. Conceded by Clemens Fritz.",2,,2,Hertha Berlin,Werder Bremen,clemens fritz,clemens fritz,,,,,0,,,0,,0
+MX94dI81/,MX94dI8132,32,28,Attempt blocked. Vedad Ibisevic (Hertha Berlin) header from the left side of the six yard box is blocked. Assisted by Vladimir Darida with a cross.,1,12.0,2,Hertha Berlin,Werder Bremen,vedad ibisevic,vladimir darida,,,2.0,3.0,0,10.0,3.0,2,1.0,0
+MX94dI81/,MX94dI8133,33,28,"Corner,  Hertha Berlin. Conceded by Anthony Ujah.",2,,2,Hertha Berlin,Werder Bremen,anthony ujah,anthony ujah,,,,,0,,,0,,0
+MX94dI81/,MX94dI8134,34,29,"Goal!  SV Werder Bremen 0, Hertha Berlin 1. Vladimir Darida (Hertha Berlin) right footed shot from outside the box to the top left corner. Assisted by Per Skjelbred with a headed pass.",1,12.0,2,Hertha Berlin,Werder Bremen,vladimir darida,per skjelbred,,,12.0,1.0,1,15.0,1.0,3,1.0,0
+MX94dI81/,MX94dI8135,35,31,Attempt saved. Salomon Kalou (Hertha Berlin) right footed shot from the right side of the box is saved in the centre of the goal. Assisted by Vedad Ibisevic.,1,12.0,2,Hertha Berlin,Werder Bremen,salomon kalou,vedad ibisevic,,,5.0,1.0,0,11.0,1.0,1,1.0,0
+MX94dI81/,MX94dI8136,36,31,Genki Haraguchi (Hertha Berlin) hits the bar with a left footed shot from the left side of the box.,1,,2,Hertha Berlin,Werder Bremen,genki haraguchi,,,,7.0,4.0,0,9.0,2.0,0,1.0,0
+MX94dI81/,MX94dI8137,37,32,Foul by Claudio Pizarro (SV Werder Bremen).,3,,1,Werder Bremen,Hertha Berlin,claudio pizarro,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8138,38,32,Mitchell Weiser (Hertha Berlin) wins a free kick on the right wing.,8,,2,Hertha Berlin,Werder Bremen,mitchell weiser,,,,,,0,5.0,,0,,0
+MX94dI81/,MX94dI8139,39,33,"Corner,  Hertha Berlin. Conceded by Florian Grillitsch.",2,,2,Hertha Berlin,Werder Bremen,florian grillitsch,florian grillitsch,,,,,0,,,0,,0
+MX94dI81/,MX94dI8140,40,34,Foul by Clemens Fritz (SV Werder Bremen).,3,,1,Werder Bremen,Hertha Berlin,clemens fritz,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8141,41,34,"Attempt missed. Fabian Lustenberger (Hertha Berlin) header from the centre of the box is close, but misses to the right. Assisted by Marvin Plattenhardt with a cross.",1,12.0,2,Hertha Berlin,Werder Bremen,fabian lustenberger,marvin plattenhardt,,,9.0,2.0,0,3.0,3.0,2,1.0,0
+MX94dI81/,MX94dI8142,42,34,Vedad Ibisevic (Hertha Berlin) wins a free kick in the defensive half.,8,,2,Hertha Berlin,Werder Bremen,vedad ibisevic,,,,,,0,2.0,,0,,0
+MX94dI81/,MX94dI8143,43,38,"Corner,  Hertha Berlin. Conceded by Florian Grillitsch.",2,,2,Hertha Berlin,Werder Bremen,florian grillitsch,florian grillitsch,,,,,0,,,0,,0
+MX94dI81/,MX94dI8144,44,38,Attempt missed. Fabian Lustenberger (Hertha Berlin) header from the centre of the box is high and wide to the right. Assisted by Marvin Plattenhardt with a cross following a corner.,1,12.0,2,Hertha Berlin,Werder Bremen,fabian lustenberger,marvin plattenhardt,,,6.0,2.0,0,3.0,3.0,2,3.0,0
+MX94dI81/,MX94dI8145,45,40,Foul by Santiago Garcia (SV Werder Bremen).,3,,1,Werder Bremen,Hertha Berlin,santiago garcia,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8146,46,40,Santiago Garcia (SV Werder Bremen) is shown the yellow card for a bad foul.,4,,1,Werder Bremen,Hertha Berlin,santiago garcia,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8147,47,40,Mitchell Weiser (Hertha Berlin) wins a free kick in the attacking half.,8,,2,Hertha Berlin,Werder Bremen,mitchell weiser,,,,,,0,1.0,,0,,0
+MX94dI81/,MX94dI8148,48,41,"Goal!  SV Werder Bremen 0, Hertha Berlin 2. Marvin Plattenhardt (Hertha Berlin) from a free kick with a left footed shot to the top left corner.",1,,2,Hertha Berlin,Werder Bremen,marvin plattenhardt,,,,12.0,1.0,1,19.0,2.0,0,4.0,0
+MX94dI81/,MX94dI8149,49,43,Foul by Claudio Pizarro (SV Werder Bremen).,3,,1,Werder Bremen,Hertha Berlin,claudio pizarro,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8150,50,43,Mitchell Weiser (Hertha Berlin) wins a free kick in the defensive half.,8,,2,Hertha Berlin,Werder Bremen,mitchell weiser,,,,,,0,2.0,,0,,0
+MX94dI81/,MX94dI8151,51,44,Claudio Pizarro (SV Werder Bremen) wins a free kick on the left wing.,8,,1,Werder Bremen,Hertha Berlin,claudio pizarro,,,,,,0,4.0,,0,,0
+MX94dI81/,MX94dI8152,52,44,Zlatko Junuzovic (SV Werder Bremen) wins a free kick in the attacking half.,8,,1,Werder Bremen,Hertha Berlin,zlatko junuzovic,,,,,,0,1.0,,0,,0
+MX94dI81/,MX94dI8153,53,44,Foul by Fabian Lustenberger (Hertha Berlin).,3,,2,Hertha Berlin,Werder Bremen,fabian lustenberger,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8154,54,44,Foul by John Brooks (Hertha Berlin).,3,,2,Hertha Berlin,Werder Bremen,john brooks,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8155,55,45,Attempt saved. Papy Djilobodji (SV Werder Bremen) right footed shot from outside the box is saved in the top right corner.,1,,1,Werder Bremen,Hertha Berlin,papy djilobodji,,,,13.0,1.0,0,15.0,1.0,0,1.0,0
+MX94dI81/,MX94dI8156,56,45,"Corner,  SV Werder Bremen. Conceded by Rune Jarstein.",2,,1,Werder Bremen,Hertha Berlin,rune jarstein,rune jarstein,,,,,0,,,0,,0
+MX94dI81/,MX94dI8157,57,45,"Corner,  SV Werder Bremen. Conceded by Marvin Plattenhardt.",2,,1,Werder Bremen,Hertha Berlin,marvin plattenhardt,marvin plattenhardt,,,,,0,,,0,,0
+MX94dI81/,MX94dI8158,58,45,Attempt missed. Jannik Vestergaard (SV Werder Bremen) header from the left side of the six yard box is too high. Assisted by Zlatko Junuzovic with a cross following a corner.,1,12.0,1,Werder Bremen,Hertha Berlin,jannik vestergaard,zlatko junuzovic,,,10.0,2.0,0,10.0,3.0,2,3.0,0
+MX94dI81/,MX94dI8159,59,45,"Substitution, SV Werder Bremen. Fin Bartels replaces Levin Oztunali.",7,,1,Werder Bremen,Hertha Berlin,,,fin bartels,levin oztunali,,,0,,,0,,0
+MX94dI81/,MX94dI8160,60,46,Fin Bartels (SV Werder Bremen) wins a free kick in the attacking half.,8,,1,Werder Bremen,Hertha Berlin,fin bartels,,,,,,0,1.0,,0,,0
+MX94dI81/,MX94dI8161,61,46,Foul by Per Skjelbred (Hertha Berlin).,3,,2,Hertha Berlin,Werder Bremen,per skjelbred,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8162,62,46,Per Skjelbred (Hertha Berlin) is shown the yellow card for a bad foul.,4,,2,Hertha Berlin,Werder Bremen,per skjelbred,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8163,63,48,Foul by Clemens Fritz (SV Werder Bremen).,3,,1,Werder Bremen,Hertha Berlin,clemens fritz,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8164,64,48,Clemens Fritz (SV Werder Bremen) is shown the yellow card for a bad foul.,4,,1,Werder Bremen,Hertha Berlin,clemens fritz,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8165,65,48,Fabian Lustenberger (Hertha Berlin) wins a free kick in the defensive half.,8,,2,Hertha Berlin,Werder Bremen,fabian lustenberger,,,,,,0,2.0,,0,,0
+MX94dI81/,MX94dI8166,66,49,"Offside, Hertha Berlin. Vladimir Darida tries a through ball, but Salomon Kalou is caught offside.",9,13.0,2,Hertha Berlin,Werder Bremen,salomon kalou,vladimir darida,,,,,0,,,0,,0
+MX94dI81/,MX94dI8167,67,50,Attempt missed. Salomon Kalou (Hertha Berlin) right footed shot from the left side of the box misses to the right. Assisted by Vladimir Darida.,1,12.0,2,Hertha Berlin,Werder Bremen,salomon kalou,vladimir darida,,,9.0,2.0,0,9.0,1.0,1,1.0,0
+MX94dI81/,MX94dI8168,68,52,Zlatko Junuzovic (SV Werder Bremen) wins a free kick in the attacking half.,8,,1,Werder Bremen,Hertha Berlin,zlatko junuzovic,,,,,,0,1.0,,0,,0
+MX94dI81/,MX94dI8169,69,52,Attempt blocked. Florian Grillitsch (SV Werder Bremen) right footed shot from outside the box is blocked.,1,,1,Werder Bremen,Hertha Berlin,florian grillitsch,,,,2.0,3.0,0,15.0,1.0,0,1.0,0
+MX94dI81/,MX94dI8170,70,52,Foul by Genki Haraguchi (Hertha Berlin).,3,,2,Hertha Berlin,Werder Bremen,genki haraguchi,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8171,71,53,Foul by Papy Djilobodji (SV Werder Bremen).,3,,1,Werder Bremen,Hertha Berlin,papy djilobodji,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8172,72,53,Papy Djilobodji (SV Werder Bremen) is shown the yellow card for a bad foul.,4,,1,Werder Bremen,Hertha Berlin,papy djilobodji,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8173,73,53,Vedad Ibisevic (Hertha Berlin) wins a free kick in the attacking half.,8,,2,Hertha Berlin,Werder Bremen,vedad ibisevic,,,,,,0,1.0,,0,,0
+MX94dI81/,MX94dI8174,74,54,Papy Djilobodji (SV Werder Bremen) wins a free kick in the defensive half.,8,,1,Werder Bremen,Hertha Berlin,papy djilobodji,,,,,,0,2.0,,0,,0
+MX94dI81/,MX94dI8175,75,54,Foul by Salomon Kalou (Hertha Berlin).,3,,2,Hertha Berlin,Werder Bremen,salomon kalou,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8176,76,57,Foul by Florian Grillitsch (SV Werder Bremen).,3,,1,Werder Bremen,Hertha Berlin,florian grillitsch,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8177,77,57,Mitchell Weiser (Hertha Berlin) wins a free kick in the defensive half.,8,,2,Hertha Berlin,Werder Bremen,mitchell weiser,,,,,,0,2.0,,0,,0
+MX94dI81/,MX94dI8178,78,58,Fin Bartels (SV Werder Bremen) wins a free kick in the attacking half.,8,,1,Werder Bremen,Hertha Berlin,fin bartels,,,,,,0,1.0,,0,,0
+MX94dI81/,MX94dI8179,79,58,"Corner,  SV Werder Bremen. Conceded by Genki Haraguchi.",2,,1,Werder Bremen,Hertha Berlin,genki haraguchi,genki haraguchi,,,,,0,,,0,,0
+MX94dI81/,MX94dI8180,80,58,Foul by John Brooks (Hertha Berlin).,3,,2,Hertha Berlin,Werder Bremen,john brooks,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8181,81,60,"Attempt missed. Anthony Ujah (SV Werder Bremen) right footed shot from outside the box is close, but misses to the right. Assisted by Papy Djilobodji.",1,12.0,1,Werder Bremen,Hertha Berlin,anthony ujah,papy djilobodji,,,9.0,2.0,0,15.0,1.0,1,1.0,0
+MX94dI81/,MX94dI8182,82,61,Foul by Santiago Garcia (SV Werder Bremen).,3,,1,Werder Bremen,Hertha Berlin,santiago garcia,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8183,83,61,Salomon Kalou (Hertha Berlin) wins a free kick in the defensive half.,8,,2,Hertha Berlin,Werder Bremen,salomon kalou,,,,,,0,2.0,,0,,0
+MX94dI81/,MX94dI8184,84,62,Foul by Zlatko Junuzovic (SV Werder Bremen).,3,,1,Werder Bremen,Hertha Berlin,zlatko junuzovic,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8185,85,62,Mitchell Weiser (Hertha Berlin) wins a free kick on the right wing.,8,,2,Hertha Berlin,Werder Bremen,mitchell weiser,,,,,,0,5.0,,0,,0
+MX94dI81/,MX94dI8186,86,63,"Substitution, SV Werder Bremen. Laszlo Kleinheisler replaces Florian Grillitsch.",7,,1,Werder Bremen,Hertha Berlin,,,laszlo kleinheisler,florian grillitsch,,,0,,,0,,0
+MX94dI81/,MX94dI8187,87,63,Foul by Zlatko Junuzovic (SV Werder Bremen).,3,,1,Werder Bremen,Hertha Berlin,zlatko junuzovic,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8188,88,63,Fabian Lustenberger (Hertha Berlin) wins a free kick in the defensive half.,8,,2,Hertha Berlin,Werder Bremen,fabian lustenberger,,,,,,0,2.0,,0,,0
+MX94dI81/,MX94dI8189,89,67,"Goal!  SV Werder Bremen 1, Hertha Berlin 2. Fin Bartels (SV Werder Bremen) left footed shot from the centre of the box to the bottom left corner. Assisted by Zlatko Junuzovic.",1,12.0,1,Werder Bremen,Hertha Berlin,fin bartels,zlatko junuzovic,,,3.0,1.0,1,3.0,2.0,1,1.0,0
+MX94dI81/,MX94dI8190,90,68,Zlatko Junuzovic (SV Werder Bremen) wins a free kick on the left wing.,8,,1,Werder Bremen,Hertha Berlin,zlatko junuzovic,,,,,,0,4.0,,0,,0
+MX94dI81/,MX94dI8191,91,68,Foul by Mitchell Weiser (Hertha Berlin).,3,,2,Hertha Berlin,Werder Bremen,mitchell weiser,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8192,92,68,Mitchell Weiser (Hertha Berlin) is shown the yellow card for a bad foul.,4,,2,Hertha Berlin,Werder Bremen,mitchell weiser,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8193,93,69,Foul by Anthony Ujah (SV Werder Bremen).,3,,1,Werder Bremen,Hertha Berlin,anthony ujah,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8194,94,69,"Substitution, Hertha Berlin. Johannes van den Bergh replaces Genki Haraguchi.",7,,2,Hertha Berlin,Werder Bremen,,,johannes van den bergh,genki haraguchi,,,0,,,0,,0
+MX94dI81/,MX94dI8195,95,69,Sebastian Langkamp (Hertha Berlin) wins a free kick in the defensive half.,8,,2,Hertha Berlin,Werder Bremen,sebastian langkamp,,,,,,0,2.0,,0,,0
+MX94dI81/,MX94dI8196,96,71,"Goal!  SV Werder Bremen 1, Hertha Berlin 3. Salomon Kalou (Hertha Berlin) right footed shot from the right side of the six yard box to the bottom right corner. Assisted by Johannes van den Bergh following a fast break.",1,12.0,2,Hertha Berlin,Werder Bremen,salomon kalou,johannes van den bergh,,,4.0,1.0,1,12.0,1.0,1,1.0,1
+MX94dI81/,MX94dI8197,97,72,Foul by Laszlo Kleinheisler (SV Werder Bremen).,3,,1,Werder Bremen,Hertha Berlin,laszlo kleinheisler,,,,,,0,,,0,,0
+MX94dI81/,MX94dI8198,98,72,Per Skjelbred (Hertha Berlin) wins a free kick in the defensive half.,8,,2,Hertha Berlin,Werder Bremen,per skjelbred,,,,,,0,2.0,,0,,0
+MX94dI81/,MX94dI8199,99,74,Penalty SV Werder Bremen. Anthony Ujah draws a foul in the penalty area.,11,,1,Werder Bremen,Hertha Berlin,,,,,,,0,,,0,,0
+MX94dI81/,MX94dI81100,100,75,"Goal!  SV Werder Bremen 2, Hertha Berlin 3. Claudio Pizarro (SV Werder Bremen) converts the penalty with a right footed shot to the bottom right corner.",1,,1,Werder Bremen,Hertha Berlin,claudio pizarro,,,,4.0,1.0,1,14.0,1.0,0,2.0,0
+MX94dI81/,MX94dI81101,101,76,"Corner,  SV Werder Bremen. Conceded by Fabian Lustenberger.",2,,1,Werder Bremen,Hertha Berlin,fabian lustenberger,fabian lustenberger,,,,,0,,,0,,0
+MX94dI81/,MX94dI81102,102,76,Attempt blocked. Santiago Garcia (SV Werder Bremen) header from the centre of the box is blocked. Assisted by Zlatko Junuzovic with a cross.,1,12.0,1,Werder Bremen,Hertha Berlin,santiago garcia,zlatko junuzovic,,,2.0,3.0,0,3.0,3.0,2,1.0,0
+MX94dI81/,MX94dI81103,103,77,"Goal!  SV Werder Bremen 3, Hertha Berlin 3. Claudio Pizarro (SV Werder Bremen) header from very close range to the bottom left corner. Assisted by Santiago Garcia following a corner.",1,12.0,1,Werder Bremen,Hertha Berlin,claudio pizarro,santiago garcia,,,3.0,1.0,1,13.0,3.0,1,3.0,0
+MX94dI81/,MX94dI81104,104,79,Theodor Gebre Selassie (SV Werder Bremen) wins a free kick in the attacking half.,8,,1,Werder Bremen,Hertha Berlin,theodor gebre selassie,,,,,,0,1.0,,0,,0
+MX94dI81/,MX94dI81105,105,79,Foul by Vladimir Darida (Hertha Berlin).,3,,2,Hertha Berlin,Werder Bremen,vladimir darida,,,,,,0,,,0,,0
+MX94dI81/,MX94dI81106,106,80,Foul by Fin Bartels (SV Werder Bremen).,3,,1,Werder Bremen,Hertha Berlin,fin bartels,,,,,,0,,,0,,0
+MX94dI81/,MX94dI81107,107,80,Per Skjelbred (Hertha Berlin) wins a free kick in the defensive half.,8,,2,Hertha Berlin,Werder Bremen,per skjelbred,,,,,,0,2.0,,0,,0
+MX94dI81/,MX94dI81108,108,81,Hand ball by Mitchell Weiser (Hertha Berlin).,10,,2,Hertha Berlin,Werder Bremen,mitchell weiser,,,,,,0,,,0,,0
+MX94dI81/,MX94dI81109,109,84,Foul by Theodor Gebre Selassie (SV Werder Bremen).,3,,1,Werder Bremen,Hertha Berlin,theodor gebre selassie,,,,,,0,,,0,,0
+MX94dI81/,MX94dI81110,110,84,Marvin Plattenhardt (Hertha Berlin) wins a free kick in the defensive half.,8,,2,Hertha Berlin,Werder Bremen,marvin plattenhardt,,,,,,0,2.0,,0,,0
+MX94dI81/,MX94dI81111,111,86,Foul by Jannik Vestergaard (SV Werder Bremen).,3,,1,Werder Bremen,Hertha Berlin,jannik vestergaard,,,,,,0,,,0,,0
+MX94dI81/,MX94dI81112,112,86,Vedad Ibisevic (Hertha Berlin) wins a free kick on the left wing.,8,,2,Hertha Berlin,Werder Bremen,vedad ibisevic,,,,,,0,4.0,,0,,0
+MX94dI81/,MX94dI81113,113,86,"Substitution, Hertha Berlin. Niklas Stark replaces Vedad Ibisevic.",7,,2,Hertha Berlin,Werder Bremen,,,niklas stark,vedad ibisevic,,,0,,,0,,0
+MX94dI81/,MX94dI81114,114,88,Laszlo Kleinheisler (SV Werder Bremen) wins a free kick in the defensive half.,8,,1,Werder Bremen,Hertha Berlin,laszlo kleinheisler,,,,,,0,2.0,,0,,0
+MX94dI81/,MX94dI81115,115,88,Foul by Johannes van den Bergh (Hertha Berlin).,3,,2,Hertha Berlin,Werder Bremen,johannes van den bergh,,,,,,0,,,0,,0
+MX94dI81/,MX94dI81116,116,90,Attempt blocked. Anthony Ujah (SV Werder Bremen) left footed shot from the centre of the box is blocked.,1,,1,Werder Bremen,Hertha Berlin,anthony ujah,,,,2.0,3.0,0,3.0,2.0,0,1.0,0
+MX94dI81/,MX94dI81117,117,90,Attempt saved. Fin Bartels (SV Werder Bremen) header from the centre of the box is saved in the bottom right corner. Assisted by Zlatko Junuzovic with a cross.,1,12.0,1,Werder Bremen,Hertha Berlin,fin bartels,zlatko junuzovic,,,4.0,1.0,0,3.0,3.0,2,1.0,0
+MX94dI81/,MX94dI81118,118,90,"Substitution, SV Werder Bremen. Lukas Frode replaces Zlatko Junuzovic.",7,,1,Werder Bremen,Hertha Berlin,,,lukas frode,zlatko junuzovic,,,0,,,0,,0
+MX94dI81/,MX94dI81119,119,90,Foul by Anthony Ujah (SV Werder Bremen).,3,,1,Werder Bremen,Hertha Berlin,anthony ujah,,,,,,0,,,0,,0
+MX94dI81/,MX94dI81120,120,90,Attempt blocked. Vladimir Darida (Hertha Berlin) right footed shot from the right side of the box is blocked. Assisted by Mitchell Weiser.,1,12.0,2,Hertha Berlin,Werder Bremen,vladimir darida,mitchell weiser,,,2.0,3.0,0,11.0,1.0,1,1.0,0
+MX94dI81/,MX94dI81121,121,90,"Substitution, Hertha Berlin. Jens Hegeler replaces Per Skjelbred.",7,,2,Hertha Berlin,Werder Bremen,,,jens hegeler,per skjelbred,,,0,,,0,,0
+MX94dI81/,MX94dI81122,122,90,John Brooks (Hertha Berlin) wins a free kick in the defensive half.,8,,2,Hertha Berlin,Werder Bremen,john brooks,,,,,,0,2.0,,0,,0

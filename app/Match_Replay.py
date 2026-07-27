@@ -60,7 +60,7 @@ CURATED_MATCH_IDS = matches_df['id_odsp'].unique().tolist()
 # ---- Load Raw events ----
 @st.cache_data
 def load_raw_events():
-    return pd.read_csv(BASE_DIR / 'data' / 'raw' / 'archive' / 'events.csv')  
+    return pd.read_csv(BASE_DIR / 'data' / 'curated_raw_events.csv')  
 
 raw_events_df = load_raw_events()
 
@@ -86,6 +86,11 @@ def momentum_meter_value(probs):
 
 
 # ==== UI ==== 
+
+st.set_page_config(
+    page_title="Match Replay",
+    layout="wide"
+)
 
 st.title("⚽ Football Momentum Forecasting")
 
