@@ -1,0 +1,11 @@
+ Hybrid DistilBERT - Test Set Evaluation
+=============================================
+               precision    recall  f1-score   support
+
+Home Dominant       0.95      0.93      0.94      9492
+Away Dominant       0.93      0.93      0.93      7095
+     Balanced       0.87      0.90      0.88      7870
+
+     accuracy                           0.92     24457
+    macro avg       0.92      0.92      0.92     24457
+ weighted avg       0.92      0.92      0.92     24457

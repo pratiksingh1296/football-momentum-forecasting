@@ -1,0 +1,11 @@
+ DistilBERT - Test Set Evaluation
+=============================================
+               precision    recall  f1-score   support
+
+Home Dominant       0.94      0.92      0.93      9492
+Away Dominant       0.93      0.91      0.92      7095
+     Balanced       0.85      0.90      0.87      7870
+
+     accuracy                           0.91     24457
+    macro avg       0.91      0.91      0.91     24457
+ weighted avg       0.91      0.91      0.91     24457
